@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karol Grzegorczyk Fotografia</title>
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- JS (DEFER!) -->
+    
+    <!-- custom lightbox (replaces PhotoSwipe) -->
+    <script src="js/custom-lightbox.js" defer></script>
+    <script src="js/gallery-engine.js" defer></script>
+    <script src="js/data/family.js" defer></script>
+    <script src="js/data/travels.js" defer></script>
+    <script src="js/data/memories.js" defer></script>
+    <script src="js/lang.js" defer></script>
+    <script src="js/modal.js" defer></script>
+    <script src="js/work-content.js" defer></script>
+    <script src="js/sections.js" defer></script>
+    <script src="js/app.js" defer></script>
+    <script src="js/init.js" defer></script>
+</head>
+
+<body>
+
+    <header>
+        <h1>KAROL GRZEGORCZYK</h1>
+        <nav>
+            <a id="menuHome" onclick="showSection('home')">HOME</a>
+            <a id="menuFamily" onclick="showSection('family')">FRIENDS AND FAMILY</a>
+            <a id="menuWork" onclick="showSection('work')">WORK</a>
+            <a id="menuPhotography" onclick="showSection('photography')">PHOTOGRAPHY</a>
+            <a id="menuWspomnienia" onclick="showSection('wspomnienia')">WSPOMNIENIA</a>
+        </nav>
+        <div id="langSwitch">
+            <button data-lang="en" onclick="setLang('en')">EN</button>
+            <button data-lang="pl" onclick="setLang('pl')" class="active">PL</button>
+        </div>
+    </header>
+
+    <!-- HOME SECTION -->
+    <div id="home" class="section active">
+        <img src="https://media.licdn.com/dms/image/v2/C4E03AQFrLeAYDNt3dw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1549098726707?e=2147483647&v=beta&t=CnIyNloM0qQIeQ5fh1eeCFQ-NT1gjBwmDtOzduBevuc"
+            style="border-radius:50%;width:170px;margin:25px auto;border:3px solid #333;">
+        <h2 id="homeTitle">Welcome</h2>
+        <p id="homeText">
+            Discover Karol’s world of AI research, modernist architecture and monochrome photography.
+        </p>
+    </div>
+
+    <!-- FRIENDS AND FAMILY SECTION -->
+    <div id="family" class="section">
+        <h2 id="familyTitle">Friends and Family</h2>
+        <div id="family-gallery"></div>
+    </div>
+
+    <!-- WORK SECTION -->
+    <div id="work" class="section">
+        <div id="work-content">
+            <p>Loading work content…</p>
+        </div>
+    </div>
+
+    <!-- WSPOMNIENIA SECTION -->
+    <div id="wspomnienia" class="section">
+        <h2 id="wspominieniaTitle">Wspomnienia</h2>
+        <div class="memories-container"></div>
+    </div>
+
+    <!-- PHOTOGRAPHY SECTION -->
+    <div id="photography" class="section">
+        <h2 id="galleryTitle">Photo Gallery</h2>
+
+        <!-- Category Selector -->
+        <div class="gallery-tabs">
+            <button class="tab-btn active" onclick="showGalleryCategory('travels')" id="tabTravels" data-category="travels">TRAVELS</button>
+            <button class="tab-btn" onclick="showGalleryCategory('architecture')" id="tabArchitecture" data-category="architecture">ARCHITECTURE</button>
+        </div>
+
+        <!-- TRAVELS CATEGORY -->
+        <div id="travels-category" class="photo-category active"></div>
+
+        <!-- ARCHITECTURE CATEGORY -->
+        <div id="architecture-category" class="photo-category"></div>
+
+    </div>
+
+</body>
+
+</html>

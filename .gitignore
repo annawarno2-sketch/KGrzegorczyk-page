@@ -1,0 +1,14 @@
+.DS_Store
+
+# Local backup folders
+image_backups_*/
+
+# Source/maintenance assets not needed for GitHub Pages deployment
+images_raw/
+images/podpisy/
+scripts/
+images/Indie/P1010051.MOV
+
+# Python cache
+__pycache__/
+*.pyc
