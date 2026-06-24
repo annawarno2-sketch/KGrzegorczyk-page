@@ -1,38 +1,38 @@
 window.MEMORY_DATA = {
   en: [
     {
-      title: "Trip to Poland",
-      text: "A reflective journey into Poland's culture, architecture, and everyday moments that shape memory."
+      title: "Sample Memory A",
+      text: "This is placeholder text used for public preview only. Final narrative content will be added later."
     },
     {
-      title: "Mountain Adventures",
-      text: "Fresh air, wide horizons, and the quiet energy of hiking through dramatic peaks and forests."
+      title: "Sample Memory B",
+      text: "Temporary descriptive paragraph for layout testing. It does not refer to real events or people."
     },
     {
-      title: "The Unexpected Path",
-      text: "Random encounters and sudden changes that leave a lasting mark on personal stories."
+      title: "Sample Memory C",
+      text: "Demo content generated to fill the card and modal structure during pre-release publication."
     },
     {
-      title: "University Days",
-      text: "Learning, friendship, and the formative experiences that became the foundation for later work."
+      title: "Sample Memory D",
+      text: "Neutral placeholder text. This section will be replaced with curated memories in a future update."
     }
   ],
   pl: [
     {
-      title: "Podróż do Polski",
-      text: "Wspomnienie o odkrywaniu polskiej kultury, architektury i chwil, które tworzą osobistą pamięć."
+      title: "Przykładowe Wspomnienie A",
+      text: "To jest tekst zastępczy do publicznego podglądu. Docelowa treść zostanie dodana później."
     },
     {
-      title: "Przygody w górach",
-      text: "Świeże powietrze, szerokie horyzonty i cisza górskich szlaków w otoczeniu natury."
+      title: "Przykładowe Wspomnienie B",
+      text: "Tymczasowy opis do testów układu strony. Nie odnosi się do prawdziwych wydarzeń ani osób."
     },
     {
-      title: "Nieoczekiwany szlak",
-      text: "Zaskakujące spotkania i zmiany planów, które wniosły nowe spojrzenie na codzienne życie."
+      title: "Przykładowe Wspomnienie C",
+      text: "Treść demonstracyjna użyta do wypełnienia kart i modala na etapie publikacji wersji roboczej."
     },
     {
-      title: "Dni na uczelni",
-      text: "Nauka, przyjaźnie i doświadczenia, które stały się fundamentem późniejszych działań."
+      title: "Przykładowe Wspomnienie D",
+      text: "Neutralny tekst zastępczy. Ta sekcja zostanie podmieniona na właściwe wspomnienia w kolejnej wersji."
     }
   ]
 };
