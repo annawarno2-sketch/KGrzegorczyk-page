@@ -24,6 +24,16 @@ function loadWorkSection() {
     const workLoadingText = (window.GALLERY_LABELS && window.GALLERY_LABELS.loadingWork) ? window.GALLERY_LABELS.loadingWork : 'Loading work content…';
     container.innerHTML = `<p>${workLoadingText}</p>`;
 
+    // Prefer JS-provided content so updates are controlled from one source.
+    if (window.WORK_CONTENT) {
+        container.innerHTML = window.WORK_CONTENT;
+        workSectionLoaded = true;
+        if (window.currentLang && typeof window.setLang === 'function') {
+            window.setLang(window.currentLang);
+        }
+        return;
+    }
+
     fetch('work.html')
         .then(response => {
             if (!response.ok) {
