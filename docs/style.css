@@ -161,6 +161,28 @@
             color: var(--text-secondary);
         }
 
+        .global-contact {
+            margin: 42px auto 18px;
+            max-width: 920px;
+            padding: 14px 16px 0;
+            font-size: 13px;
+            line-height: 1.5;
+            color: var(--text-muted);
+            opacity: 0.78;
+            text-align: center;
+            border-top: 1px solid rgba(255, 255, 255, 0.12);
+        }
+
+        .global-contact a {
+            color: var(--text-primary);
+            text-decoration: underline;
+            text-underline-offset: 3px;
+        }
+
+        .global-contact a:hover {
+            color: var(--text-secondary);
+        }
+
         @keyframes fadeIn {
             from {
                 opacity: 0;

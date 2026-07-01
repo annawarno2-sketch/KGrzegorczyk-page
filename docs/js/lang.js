@@ -9,7 +9,7 @@ window.setLang = function (lang) {
             travels: "TRAVELS",
             architecture: "ARCHITECTURE",
             memories: "MEMORIES",
-            homeText: "Discover Karol’s world of AI research, modernist architecture and monochrome photography.",
+            homeText: "Discover Karol's world - AI research, modernist architecture, and travel photography.",
             homeTitle: "Welcome",
             workTitle: "About Karol",
             workText: "AI research in deep learning and natural language processing, with work on neural text representations, transfer learning, and optimization of deep neural networks.",
@@ -20,7 +20,8 @@ window.setLang = function (lang) {
             loadingWork: "Loading work content…",
             workLoadError: "Unable to load work content. Please refresh the page.",
             docTitle: "Karol Grzegorczyk Photography",
-            memoriesTitle: "Memories"
+            memoriesTitle: "Memories",
+            contactLead: "If you want to add anything or ask about Karol, reach out:"
         },
         pl: {
             home: "START",
@@ -30,7 +31,7 @@ window.setLang = function (lang) {
             travels: "PODRÓŻE",
             architecture: "ARCHITEKTURA",
             memories: "WSPOMNIENIA",
-            homeText: "Odkryj świat Karola – badania nad AI, modernistyczna architektura i czarno-biała fotografia.",
+            homeText: "Odkryj świat Karola – badania nad AI, modernistyczna architektura i fotografie z podróży.",
             homeTitle: "Witaj",
             workTitle: "O Karolu",
             workText: "Badania AI w obszarze uczenia głębokiego i przetwarzania języka naturalnego, ze szczególnym uwzględnieniem reprezentacji tekstów, transfer learningu oraz optymalizacji sieci neuronowych.",
@@ -41,7 +42,8 @@ window.setLang = function (lang) {
             loadingWork: "Ładowanie treści pracy…",
             workLoadError: "Nie można załadować treści pracy. Odśwież stronę.",
             docTitle: "Karol Grzegorczyk Fotografia",
-            memoriesTitle: "Wspomnienia"
+            memoriesTitle: "Wspomnienia",
+            contactLead: "Jeśli chcesz coś dodać lub zapytać o Karola, napisz:"
         }
     }[lang];
 
@@ -71,6 +73,7 @@ window.setLang = function (lang) {
     const galleryTitle = document.getElementById("galleryTitle");
     const familyTitle = document.getElementById("familyTitle");
     const memoriesTitle = document.getElementById("wspominieniaTitle");
+    const globalContact = document.getElementById("globalContact");
     const memoryContainer = document.querySelector(".memories-container");
 
     if (homeTitle) homeTitle.innerText = t.homeTitle;
@@ -80,6 +83,9 @@ window.setLang = function (lang) {
     if (galleryTitle) galleryTitle.innerText = t.galleryTitle;
     if (familyTitle) familyTitle.innerText = t.familyTitle;
     if (memoriesTitle) memoriesTitle.innerText = t.memoriesTitle;
+    if (globalContact) {
+        globalContact.innerHTML = `${t.contactLead} <a href="mailto:anna.grzegorczykmm@gmail.com">anna.grzegorczykmm@gmail.com</a>`;
+    }
 
     const memoryCards = window.MEMORY_DATA && Array.isArray(window.MEMORY_DATA[lang])
         ? window.MEMORY_DATA[lang]
