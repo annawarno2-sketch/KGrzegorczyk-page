@@ -326,8 +326,8 @@ window.GALLERY_DATA.travels ={
     {
       "thumb": "images/Kuba/P3080043-thumb.webp",
       "large": "images/Kuba/P3080043-large.webp",
-      "caption": "„50 lat zmagań i zwycięstw” hasło propagandowe w Haw.",
-      "caption_en": "„50 lat zmagań i zwycięstw” hasło propagandowe w Haw."
+      "caption": "„50 lat zmagań i zwycięstw” hasło propagandowe w Hawanie.",
+      "caption_en": "„50 lat zmagań i zwycięstw” propagandowe hasło w Hawanie."
     },
     {
       "thumb": "images/Kuba/P3090053-thumb.webp",
@@ -600,8 +600,8 @@ window.GALLERY_DATA.travels ={
     {
       "thumb": "images/Indochiny/P1010171-thumb.webp",
       "large": "images/Indochiny/P1010171-large.webp",
-      "caption": "Mnich buddyjski z tradycji Therawanda jest na bieżąco z wiadomościami ze świata (pomarańczowy kolor szaty (kaszaja), naturalnie barwiony szafranem, symbolizuje prostotę i wewnętrzną przemianę. Kambodżańscy mnisi leśni preferują kolor bordowy.",
-      "caption_en": "Mnich buddyjski z tradycji Therawanda jest na bieżąco z wiadomościami ze świata (pomarańczowy kolor szaty (kaszaja), naturalnie barwiony szafranem, symbolizuje prostotę i wewnętrzną przemianę. Kambodżańscy mnisi leśni preferują kolor bordowy."
+      "caption": "Mnich buddyjski z tradycji Therawanda jest na bieżąco z wiadomościami ze świata pomarańczowy kolor szaty (kaszaja), naturalnie barwiony szafranem, symbolizuje prostotę i wewnętrzną przemianę. Kambodżańscy mnisi leśni preferują kolor bordowy.",
+      "caption_en": "Mnich buddyjski z tradycji Therawanda jest na bieżąco z wiadomościami ze świata (omarańczowy kolor szaty (kaszaja), naturalnie barwiony szafranem, symbolizuje prostotę i wewnętrzną przemianę. Kambodżańscy mnisi leśni preferują kolor bordowy."
     },
     {
       "thumb": "images/Indochiny/P1010353-thumb.webp",
@@ -1002,14 +1002,14 @@ window.GALLERY_DATA.travels ={
     {
       "thumb": "images/Afryka/P1010658-thumb.webp",
       "large": "images/Afryka/P1010658-large.webp",
-      "caption": "Park Narodowy bezpiecznego safari.",
-      "caption_en": "Park Narodowy bezpiecznego safari."
+      "caption": "Park Narodowy Bezpiecznego Safari.",
+      "caption_en": "Park Narodowy Bezpiecznego Safari."
     },
     {
       "thumb": "images/Afryka/P1010659-thumb.webp",
       "large": "images/Afryka/P1010659-large.webp",
-      "caption": "Park Narodowy bezpiecznego safari.",
-      "caption_en": "Park Narodowy bezpiecznego safari."
+      "caption": "Park Narodowy Bezpiecznego Safari.",
+      "caption_en": "Park Narodowy Bezpiecznego Safari."
     },
     {
       "thumb": "images/Afryka/P1020019-thumb.webp",
