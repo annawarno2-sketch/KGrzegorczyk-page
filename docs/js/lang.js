@@ -3,7 +3,7 @@ window.setLang = function (lang) {
     const t = {
         en: {
             home: "HOME",
-            family: "FRIENDS AND FAMILY",
+            family: "FAMILY & EVENTS",
             work: "WORK",
             photography: "PHOTOGRAPHY",
             travels: "TRAVELS",
@@ -14,7 +14,7 @@ window.setLang = function (lang) {
             workTitle: "About Karol",
             workText: "AI research in deep learning and natural language processing, with work on neural text representations, transfer learning, and optimization of deep neural networks.",
             galleryTitle: "Photo Gallery",
-            familyTitle: "Friends and Family",
+            familyTitle: "Family & Events",
             showAll: "Show all photos",
             noPhotos: "No photos available for this category.",
             loadingWork: "Loading work content…",
@@ -25,7 +25,7 @@ window.setLang = function (lang) {
         },
         pl: {
             home: "START",
-            family: "RODZINA I PRZYJACIELE",
+            family: "RODZINA I WYDARZENIA",
             work: "PRACA",
             photography: "FOTOGRAFIA",
             travels: "PODRÓŻE",
@@ -36,7 +36,7 @@ window.setLang = function (lang) {
             workTitle: "O Karolu",
             workText: "Badania AI w obszarze uczenia głębokiego i przetwarzania języka naturalnego, ze szczególnym uwzględnieniem reprezentacji tekstów, transfer learningu oraz optymalizacji sieci neuronowych.",
             galleryTitle: "Galeria zdjęć",
-            familyTitle: "Rodzina i przyjaciele",
+            familyTitle: "Rodzina i Wydarzenia",
             showAll: "Pokaż wszystkie zdjęcia",
             noPhotos: "Brak zdjęć w tej kategorii.",
             loadingWork: "Ładowanie treści pracy…",
