@@ -19,6 +19,10 @@ window.addEventListener("DOMContentLoaded", () => {
     content.id = "memory-modal-text";
     content.className = "memory-modal-text";
 
+    const media = document.createElement("div");
+    media.id = "memory-modal-media";
+    media.className = "memory-modal-media";
+
     panel.appendChild(close);
     panel.appendChild(heading);
     panel.appendChild(content);
@@ -36,9 +40,32 @@ window.addEventListener("DOMContentLoaded", () => {
         }
     });
 
-    window.openMemoryModal = function (title, text) {
+    window.openMemoryModal = function (title, text, images = [], options = {}) {
+        const imageFull = !!options.imageFull;
         heading.innerText = title;
-        content.innerText = text;
+        content.innerText = imageFull ? '' : text;
+        modal.classList.toggle('memory-modal-image-full', imageFull);
+
+        if (Array.isArray(images) && images.length) {
+            media.innerHTML = images.map(image => {
+                const src = image && image.src ? image.src : '';
+                const alt = image && image.alt ? image.alt : title;
+                if (!src) return '';
+                return `<img src="${src}" alt="${alt}" loading="lazy" decoding="async">`;
+            }).join('');
+            if (media.innerHTML.trim()) {
+                media.style.display = 'block';
+                content.prepend(media);
+            } else {
+                media.style.display = 'none';
+                media.remove();
+            }
+        } else {
+            media.innerHTML = '';
+            media.style.display = 'none';
+            media.remove();
+        }
+
         modal.classList.add("active");
     };
 
@@ -51,8 +78,16 @@ window.addEventListener("DOMContentLoaded", () => {
                 return;
             }
             const title = card.querySelector('h3')?.innerText || '';
-            const text = card.querySelector('.memory-content')?.innerText || card.querySelector('p')?.innerText || '';
-            window.openMemoryModal(title, text);
+            const text = decodeURIComponent(card.dataset.memoryText || '');
+            const imageFull = card.dataset.memoryImageFull === '1';
+            let images = [];
+            try {
+                const encoded = card.dataset.memoryImages || '[]';
+                images = JSON.parse(decodeURIComponent(encoded));
+            } catch (error) {
+                images = [];
+            }
+            window.openMemoryModal(title, text, images, { imageFull });
         });
     } else {
         console.warn('No memory container found for modal wiring');

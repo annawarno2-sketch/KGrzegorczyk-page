@@ -92,14 +92,25 @@ window.setLang = function (lang) {
         : [];
 
     if (memoryContainer && memoryCards.length) {
-        memoryContainer.innerHTML = memoryCards.map(card => `
-            <div class="memory-card">
+        memoryContainer.innerHTML = memoryCards.map(card => {
+            const images = Array.isArray(card.images) ? card.images : [];
+            const encodedImages = encodeURIComponent(JSON.stringify(images));
+            const text = typeof card.text === 'string' ? card.text : '';
+            const encodedText = encodeURIComponent(text);
+            const isImageFull = (card.category === 'image-full') || (!text.trim() && images.length > 0);
+            const previewImage = images[0]
+                ? `<div class="memory-card-media"><img src="${images[0].src}" alt="${images[0].alt || card.title}" loading="lazy" decoding="async"></div>`
+                : '';
+            return `
+            <div class="memory-card${isImageFull ? ' memory-card-image-full' : ''}" data-memory-images="${encodedImages}" data-memory-text="${encodedText}" data-memory-image-full="${isImageFull ? '1' : '0'}">
                 <h3>${card.title}</h3>
                 <div class="memory-content">
-                    <p>${card.text}</p>
+                    ${previewImage}
+                    ${isImageFull ? '' : `<p>${text}</p>`}
                 </div>
             </div>
-        `).join('');
+        `;
+        }).join('');
     }
 
     // BUTTON ACTIVE STATE

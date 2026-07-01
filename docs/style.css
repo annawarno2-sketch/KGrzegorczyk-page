@@ -319,9 +319,14 @@
             overflow-y: auto;
             padding-right: 8px;
             flex: 1;
-            display: flex;
-            flex-direction: column;
-            gap: 14px;
+            min-height: 0;
+            display: block;
+        }
+
+        .memory-card .memory-content::after {
+            content: '';
+            display: block;
+            clear: both;
         }
 
         .memory-card .memory-content::-webkit-scrollbar {
@@ -335,6 +340,44 @@
 
         .memory-card .memory-content::-webkit-scrollbar-track {
             background: rgba(255, 255, 255, 0.02);
+        }
+
+        .memory-card-media {
+            float: right;
+            width: min(45%, 180px);
+            margin: 0 0 10px 14px;
+            border-radius: 0;
+            overflow: visible;
+            border: none;
+            background: transparent;
+            flex-shrink: 0;
+        }
+
+        .memory-card-media img {
+            width: 100%;
+            height: auto;
+            max-height: 160px;
+            object-fit: contain;
+            display: block;
+        }
+
+        .memory-card-image-full .memory-content {
+            padding-right: 0;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .memory-card-image-full .memory-card-media {
+            float: none;
+            width: 100%;
+            margin: 0;
+        }
+
+        .memory-card-image-full .memory-card-media img {
+            max-height: 220px;
+            margin: 0 auto;
         }
 
         .memory-card::before {
@@ -419,6 +462,58 @@
             max-height: 62vh;
             padding-right: 10px;
             text-align: left;
+        }
+
+        .memory-modal-media {
+            display: none;
+            float: right;
+            width: min(42%, 300px);
+            margin: 0 0 14px 18px;
+            gap: 10px;
+        }
+
+        .memory-modal-media img {
+            width: 100%;
+            height: auto;
+            max-height: 320px;
+            object-fit: contain;
+            border-radius: 0;
+            border: none;
+            background: transparent;
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .memory-modal-media img:last-child {
+            margin-bottom: 0;
+        }
+
+        .memory-modal-image-full .memory-modal-text {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding-right: 0;
+            text-align: center;
+        }
+
+        .memory-modal-image-full .memory-modal-media {
+            float: none;
+            width: 100%;
+            max-width: 100%;
+            margin: 0;
+        }
+
+        .memory-modal-image-full .memory-modal-media img {
+            width: auto;
+            max-width: 100%;
+            max-height: 68vh;
+            margin: 0 auto 10px;
+        }
+
+        .memory-modal-text::after {
+            content: '';
+            display: block;
+            clear: both;
         }
 
         .memory-modal-text::-webkit-scrollbar {
