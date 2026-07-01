@@ -582,6 +582,11 @@
                 padding-top: 28px;
             }
 
+            .global-contact {
+                font-size: 15px;
+                line-height: 1.6;
+            }
+
             #langSwitch {
                 position: static;
                 margin: 0 auto 12px;
