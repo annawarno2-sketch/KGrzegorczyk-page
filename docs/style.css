@@ -15,6 +15,10 @@
             font-family: var(--font-main);
             text-align: center;
             min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            display: flex;
+            flex-direction: column;
         }
 
         button,
@@ -75,8 +79,10 @@
             animation: fadeIn .6s;
         }
 
+            flex: 1;
         .active {
             display: block;
+            flex: 1;
         }
 
         .gallery {
@@ -173,7 +179,7 @@
 
         .global-contact {
             width: 100%;
-            margin: 56px 0 0;
+            margin: 0;
             padding: 22px 20px 26px;
             font-size: 14px;
             line-height: 1.6;
