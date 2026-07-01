@@ -75,7 +75,6 @@
             animation: fadeIn .6s;
         }
 
-            flex: 1;
         .active {
             display: block;
         }
