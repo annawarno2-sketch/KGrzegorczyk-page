@@ -8,6 +8,12 @@ window.GALLERY_DATA.family = {
 "caption_en": "Karol with his brother Franek in his final apartment on Miła Street, 2022."
 },
 {
+"thumb": "images/rodzinne/04-thumb.webp",
+"large": "images/rodzinne/04-large.webp",
+"caption": "Karol w górach z przyjaciółmi i kuzynem sierpień 2021.",
+"caption_en": "Karol in the mountains with friends and his cousin, August 2021."
+},
+{
 "thumb": "images/rodzinne/02-thumb.webp",
 "large": "images/rodzinne/02-large.webp",
 "caption": "Karol jako referujący na TEDx-ie w 2019.",
@@ -18,12 +24,6 @@ window.GALLERY_DATA.family = {
 "large": "images/rodzinne/03-large.webp",
 "caption": "Z promotorami swojej pracy doktorskiej - profesorowie Wydziału Informatyki, Krakowskiej AGH: Profesor dr hab. Witold Dzwinel, oraz Profesor dr hab. Marcin Kurdziel (tekst w cz. „PRACA”) r. 2018",
 "caption_en": "With the supervisors of his doctoral dissertation – Professors of the Faculty of Computer Science at AGH University of Krakow: Prof. Witold Dzwinel and Prof. Marcin Kurdziel (see the 'WORK' section), 2018."
-},
-{
-"thumb": "images/rodzinne/04-thumb.webp",
-"large": "images/rodzinne/04-large.webp",
-"caption": "Karol w górach z przyjaciółmi i kuzynem sierpień 2021.",
-"caption_en": "Karol in the mountains with friends and his cousin, August 2021."
 },
 {
 "thumb": "images/rodzinne/05-thumb.webp",
