@@ -43,8 +43,11 @@
   let items = []; // {src, caption, thumbEl}
   let current = -1;
 
-  function collectGalleryAnchors(){
-    const anchors = Array.from(document.querySelectorAll('.strip a'));
+  function collectGalleryAnchors(scopeEl){
+    const scope = scopeEl && scopeEl.querySelectorAll ? scopeEl : document;
+    const anchors = scope.classList && scope.classList.contains('strip')
+      ? Array.from(scope.querySelectorAll('a'))
+      : Array.from(scope.querySelectorAll('.strip a'));
     items = anchors.map(a=>{
       const pswpCap = a.getAttribute('data-pswp-caption');
       const caption = pswpCap || a.dataset.caption || (a.querySelector('img') && a.querySelector('img').alt) || getSiblingCaption(a);
@@ -152,9 +155,11 @@
     const href = a.getAttribute('href');
     if(!href) return;
     e.preventDefault();
-    // rebuild items, find index
-    collectGalleryAnchors();
-    const idx = items.findIndex(it=>it.src===href);
+    // rebuild items only for the clicked gallery strip, then find exact anchor index
+    const strip = a.closest('.strip');
+    collectGalleryAnchors(strip || undefined);
+    let idx = items.findIndex(it=>it.thumbEl===a);
+    if(idx<0) idx = items.findIndex(it=>it.src===href);
     if(idx>=0) openAt(idx);
   });
 
