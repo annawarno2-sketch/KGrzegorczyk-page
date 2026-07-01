@@ -1,140 +1,98 @@
 window.GALLERY_DATA = window.GALLERY_DATA || {};
 window.GALLERY_DATA.travels ={
-  "Afryka": [
+  "TATRY (2004 i 2007)": [
     {
-      "thumb": "images/Afryka/P1010624-thumb.webp",
-      "large": "images/Afryka/P1010624-large.webp",
-      "caption": "Hotel we wschodniej Afryce.",
-      "caption_en": "Hotel we wschodniej Afryce."
+      "thumb": "images/Tatry/00-thumb.webp",
+      "large": "images/Tatry/00-large.webp",
+      "caption": "KG pokonuje lodospad nad Zmarzłym Stawem (1788).",
+      "caption_en": "KG pokonuje lodospad nad Zmarzłym Stawem (1788)."
     },
     {
-      "thumb": "images/Afryka/P1010627-thumb.webp",
-      "large": "images/Afryka/P1010627-large.webp",
-      "caption": "Wycieczka rowerowa w Hell’s Gate National Park w Kenii.",
-      "caption_en": "Wycieczka rowerowa w Hell’s Gate National Park w Kenii."
+      "thumb": "images/Tatry/01-thumb.webp",
+      "large": "images/Tatry/01-large.webp",
+      "caption": "KG podczas pokonywania lodospadu nad Zmarzłym Stawem.",
+      "caption_en": "KG podczas pokonywania lodospadu nad Zmarzłym Stawem."
     },
     {
-      "thumb": "images/Afryka/P1010636-thumb.webp",
-      "large": "images/Afryka/P1010636-large.webp",
-      "caption": "Wycieczka rowerowa w Hell’s Gate National Park w Kenii.",
-      "caption_en": "Wycieczka rowerowa w Hell’s Gate National Park w Kenii."
+      "thumb": "images/Tatry/02-thumb.webp",
+      "large": "images/Tatry/02-large.webp",
+      "caption": "KG na przewieszonym fragmencie lodospadu nad Zmarzłym Stawem.",
+      "caption_en": "KG na przewieszonym fragmencie lodospadu nad Zmarzłym Stawem."
     },
     {
-      "thumb": "images/Afryka/P1010658-thumb.webp",
-      "large": "images/Afryka/P1010658-large.webp",
-      "caption": "Park Narodowy bezpiecznego safari.",
-      "caption_en": "Park Narodowy bezpiecznego safari."
+      "thumb": "images/Tatry/03-thumb.webp",
+      "large": "images/Tatry/03-large.webp",
+      "caption": "KG w drodze na Przełęcz Zawrat (2158)",
+      "caption_en": "KG w drodze na Przełęcz Zawrat (2158)"
     },
     {
-      "thumb": "images/Afryka/P1010659-thumb.webp",
-      "large": "images/Afryka/P1010659-large.webp",
-      "caption": "Park Narodowy bezpiecznego safari.",
-      "caption_en": "Park Narodowy bezpiecznego safari."
+      "thumb": "images/Tatry/04-thumb.webp",
+      "large": "images/Tatry/04-large.webp",
+      "caption": "K. G w końcowym etapie drogi na przełęcz Pańszczycką (2115)",
+      "caption_en": "K. G w końcowym etapie drogi na przełęcz Pańszczycką (2115)"
     },
     {
-      "thumb": "images/Afryka/P1020019-thumb.webp",
-      "large": "images/Afryka/P1020019-large.webp",
-      "caption": "Trekking w dżungli, w Parku Narodowym Goryli w Nkuringo.",
-      "caption_en": "Trekking w dżungli, w Parku Narodowym Goryli w Nkuringo."
+      "thumb": "images/Tatry/05-thumb.webp",
+      "large": "images/Tatry/05-large.webp",
+      "caption": "KG droga na przełęcz Pańszczycką (2115)",
+      "caption_en": "KG droga na przełęcz Pańszczycką (2115)"
     },
     {
-      "thumb": "images/Afryka/P1020021-thumb.webp",
-      "large": "images/Afryka/P1020021-large.webp",
-      "caption": "Trekking w Parku Narodowym Wirunga.",
-      "caption_en": "Trekking w Parku Narodowym Wirunga."
+      "thumb": "images/Tatry/06-thumb.webp",
+      "large": "images/Tatry/06-large.webp",
+      "caption": "J.Sufczyński, KG, J. Konarski na przełęczy Karb (1853)",
+      "caption_en": "J.Sufczyński, KG, J. Konarski na przełęczy Karb (1853)"
     },
     {
-      "thumb": "images/Afryka/P1020037-thumb.webp",
-      "large": "images/Afryka/P1020037-large.webp",
-      "caption": "Kooperatywa mieszkańców ma propozycje dla turystów.",
-      "caption_en": "Kooperatywa mieszkańców ma propozycje dla turystów."
+      "thumb": "images/Tatry/PC270003-thumb.webp",
+      "large": "images/Tatry/PC270003-large.webp",
+      "caption": "Tegoroczna ekipa (2007) KG z lewej zbiera się na przystanku autobusowym. Stare budki telefoniczne (nie było komórek)",
+      "caption_en": "Tegoroczna ekipa (2007) KG z lewej zbiera się na przystanku autobusowym. Stare budki telefoniczne (nie było komórek)"
     },
     {
-      "thumb": "images/Afryka/P1020047-thumb.webp",
-      "large": "images/Afryka/P1020047-large.webp",
-      "caption": "Muzycy Masajowie przygotowują się do koncertu.",
-      "caption_en": "Muzycy Masajowie przygotowują się do koncertu."
+      "thumb": "images/Tatry/PC270007-thumb.webp",
+      "large": "images/Tatry/PC270007-large.webp",
+      "caption": "Widok na Podhale, na prawo Gorce.",
+      "caption_en": "Widok na Podhale, na prawo Gorce."
     },
     {
-      "thumb": "images/Afryka/P1020049-thumb.webp",
-      "large": "images/Afryka/P1020049-large.webp",
-      "caption": "Masajskie dzieciaki.",
-      "caption_en": "Masajskie dzieciaki."
+      "thumb": "images/Tatry/PC270009-thumb.webp",
+      "large": "images/Tatry/PC270009-large.webp",
+      "caption": "Początek Hali Gąsienicowej, Betlejemka (GOPR) z której odbywają się wyprawy.",
+      "caption_en": "Początek Hali Gąsienicowej, Betlejemka (GOPR) z której odbywają się wyprawy."
     },
     {
-      "thumb": "images/Afryka/P1020051-thumb.webp",
-      "large": "images/Afryka/P1020051-large.webp",
-      "caption": "Zaczęły się tańce.",
-      "caption_en": "Zaczęły się tańce."
+      "thumb": "images/Tatry/PC270010-thumb.webp",
+      "large": "images/Tatry/PC270010-large.webp",
+      "caption": "Powyżej schroniska na Hali Gąsienicowej.",
+      "caption_en": "Powyżej schroniska na Hali Gąsienicowej."
     },
     {
-      "thumb": "images/Afryka/P1020063-thumb.webp",
-      "large": "images/Afryka/P1020063-large.webp",
-      "caption": "Muzyk gra na bębnach o zachodzie słońca.",
-      "caption_en": "Muzyk gra na bębnach o zachodzie słońca."
+      "thumb": "images/Tatry/PC280043-thumb.webp",
+      "large": "images/Tatry/PC280043-large.webp",
+      "caption": "Nad Czarnym Stawem Gąsienicowym.",
+      "caption_en": "Nad Czarnym Stawem Gąsienicowym."
     },
     {
-      "thumb": "images/Afryka/P1020079-thumb.webp",
-      "large": "images/Afryka/P1020079-large.webp",
-      "caption": "Łańcuch wulkanów Wirunga i Mount Karisimbi o poranku.",
-      "caption_en": "Łańcuch wulkanów Wirunga i Mount Karisimbi o poranku."
+      "thumb": "images/Tatry/PC290077-thumb.webp",
+      "large": "images/Tatry/PC290077-large.webp",
+      "caption": "Pierwsze kroczki na skale.",
+      "caption_en": "Pierwsze kroczki na skale."
     },
     {
-      "thumb": "images/Afryka/P1020082-thumb.webp",
-      "large": "images/Afryka/P1020082-large.webp",
-      "caption": "Jezioro Mutanda w Parku Narodowym Wirunga, bardzo popularne wśród trekkerów.",
-      "caption_en": "Jezioro Mutanda w Parku Narodowym Wirunga, bardzo popularne wśród trekkerów."
+      "thumb": "images/Tatry/PC290087-thumb.webp",
+      "large": "images/Tatry/PC290087-large.webp",
+      "caption": "Podciąganie a reszta zespołu czeka na dole.",
+      "caption_en": "Podciąganie a reszta zespołu czeka na dole."
     },
     {
-      "thumb": "images/Afryka/P1020084-thumb.webp",
-      "large": "images/Afryka/P1020084-large.webp",
-      "caption": "Grupa dzieci Masajów.",
-      "caption_en": "Grupa dzieci Masajów."
-    },
-    {
-      "thumb": "images/Afryka/P1020085-thumb.webp",
-      "large": "images/Afryka/P1020085-large.webp",
-      "caption": "„Diecezja Kirundo” w Burundi, rekolekcje.",
-      "caption_en": "„Diecezja Kirundo” w Burundi, rekolekcje."
-    },
-    {
-      "thumb": "images/Afryka/P1020090-thumb.webp",
-      "large": "images/Afryka/P1020090-large.webp",
-      "caption": "Trekking wokół jednego z najpiękniejszych jezior w Aryce wschodniej, jeziora Mutanda.",
-      "caption_en": "Trekking wokół jednego z najpiękniejszych jezior w Aryce wschodniej, jeziora Mutanda."
-    },
-    {
-      "thumb": "images/Afryka/P1020091-thumb.webp",
-      "large": "images/Afryka/P1020091-large.webp",
-      "caption": "Lódź jest wypalana i ręcznie wydrążana.",
-      "caption_en": "Lódź jest wypalana i ręcznie wydrążana."
-    },
-    {
-      "thumb": "images/Afryka/P1020093-thumb.webp",
-      "large": "images/Afryka/P1020093-large.webp",
-      "caption": "Dwie łodzie suszą się na brzegu jeziora Mutanda.",
-      "caption_en": "Dwie łodzie suszą się na brzegu jeziora Mutanda."
-    },
-    {
-      "thumb": "images/Afryka/P1020098-thumb.webp",
-      "large": "images/Afryka/P1020098-large.webp",
-      "caption": "Szeroki widok na plantacje kawy w Burundi.",
-      "caption_en": "Szeroki widok na plantacje kawy w Burundi."
-    },
-    {
-      "thumb": "images/Afryka/P1020140-thumb.webp",
-      "large": "images/Afryka/P1020140-large.webp",
-      "caption": "Miasteczko Kisoro w Ugandzie, informacja o Parkach Narodowych.",
-      "caption_en": "Miasteczko Kisoro w Ugandzie, informacja o Parkach Narodowych."
-    },
-    {
-      "thumb": "images/Afryka/P1020149-thumb.webp",
-      "large": "images/Afryka/P1020149-large.webp",
-      "caption": "Autobusem jedziemy do Kibungo.",
-      "caption_en": "Autobusem jedziemy do Kibungo."
+      "thumb": "images/Tatry/PC300115-thumb.webp",
+      "large": "images/Tatry/PC300115-large.webp",
+      "caption": "Widok na Podhale, po lewej Babia Góra.",
+      "caption_en": "Widok na Podhale, po lewej Babia Góra."
     }
   ],
-  "Hiszpania": [
+  "MAROKO, PORTUGALIA, HISZPANIA (2007)": [
     {
       "thumb": "images/Hiszpania/P7260136-thumb.webp",
       "large": "images/Hiszpania/P7260136-large.webp",
@@ -316,141 +274,287 @@ window.GALLERY_DATA.travels ={
       "caption_en": "Portowe miasteczko Cadaques, nieopodal leżąca wioska Port Lligat, stanowi 2 wierzchołek „Trójkąta Dalego”, trzeci wierzchołek, to Pubol, zamek Gali."
     }
   ],
-  "Indie": [
+  "KUBA (2008)": [
     {
-      "thumb": "images/Indie/P1000802-thumb.webp",
-      "large": "images/Indie/P1000802-large.webp",
-      "caption": "Wydział muzykologii w kompleksie uniwersyteckim w mieście Waranesi. Jest to jedno z najstarszych, nieprzerwanie zamieszkałych miast na świecie, położone nad Gangesem (w stanie Uttar Pradesh), znane jako duchowa stolica Indii. Północne Indie. Typowy budynek dla Waranesi.",
-      "caption_en": "Wydział muzykologii w kompleksie uniwersyteckim w mieście Waranesi. Jest to jedno z najstarszych, nieprzerwanie zamieszkałych miast na świecie, położone nad Gangesem (w stanie Uttar Pradesh), znane jako duchowa stolica Indii. Północne Indie. Typowy budynek dla Waranesi."
+      "thumb": "images/Kuba/P3060001-thumb.webp",
+      "large": "images/Kuba/P3060001-large.webp",
+      "caption": "Kuba, piękna „wyspa jak wulkan gorąca”, widziana z samolotu.",
+      "caption_en": "Kuba, piękna „wyspa jak wulkan gorąca”, widziana z samolotu."
     },
     {
-      "thumb": "images/Indie/P1000806-thumb.webp",
-      "large": "images/Indie/P1000806-large.webp",
-      "caption": "Agra, miasto w stanie Uttar Pradesh, urok dawnej świetności.",
-      "caption_en": "Agra, miasto w stanie Uttar Pradesh, urok dawnej świetności."
+      "thumb": "images/Kuba/P3070010-thumb.webp",
+      "large": "images/Kuba/P3070010-large.webp",
+      "caption": "Hawana - sypią się ślady dawnej świetności.",
+      "caption_en": "Hawana - sypią się ślady dawnej świetności."
     },
     {
-      "thumb": "images/Indie/P1000813-thumb.webp",
-      "large": "images/Indie/P1000813-large.webp",
-      "caption": "Agra, miasto Złotego Trójkąta (Dehli, Agra, Jaipur) sławne z powodu słynnych budowli np. mauzoleum Taj Mahal z okresu Wielkich Mogołów. Widok w perspektywę ulicy, Różowa brama i strażnik.",
-      "caption_en": "Agra, miasto Złotego Trójkąta (Dehli, Agra, Jaipur) sławne z powodu słynnych budowli np. mauzoleum Taj Mahal z okresu Wielkich Mogołów. Widok w perspektywę ulicy, Różowa brama i strażnik."
+      "thumb": "images/Kuba/P3070012-thumb.webp",
+      "large": "images/Kuba/P3070012-large.webp",
+      "caption": "Hawana - kościół: Iglesia y Convento de Nuestra Segnora del Carmen na rogu ulic Infanta i Neptuno.",
+      "caption_en": "Hawana - kościół: Iglesia y Convento de Nuestra Segnora del Carmen na rogu ulic Infanta i Neptuno."
     },
     {
-      "thumb": "images/Indie/P1000833-thumb.webp",
-      "large": "images/Indie/P1000833-large.webp",
-      "caption": "Agra, zdjęcie oddaje wrażenie gwaru ulicy.",
-      "caption_en": "Agra, zdjęcie oddaje wrażenie gwaru ulicy."
+      "thumb": "images/Kuba/P3070013-thumb.webp",
+      "large": "images/Kuba/P3070013-large.webp",
+      "caption": "Hawana - plac i stoiska bukinistów w Hawanie.",
+      "caption_en": "Hawana - plac i stoiska bukinistów w Hawanie."
     },
     {
-      "thumb": "images/Indie/P1000843-thumb.webp",
-      "large": "images/Indie/P1000843-large.webp",
-      "caption": "Agra, miasto, budynki przypominają rzeźby",
-      "caption_en": "Agra, miasto, budynki przypominają rzeźby"
+      "thumb": "images/Kuba/P3070017-thumb.webp",
+      "large": "images/Kuba/P3070017-large.webp",
+      "caption": "Hawana - Katedra Niepokalanego Poczęcia NMP i Plac Katedralny.",
+      "caption_en": "Hawana - Katedra Niepokalanego Poczęcia NMP i Plac Katedralny."
     },
     {
-      "thumb": "images/Indie/P1000863-thumb.webp",
-      "large": "images/Indie/P1000863-large.webp",
-      "caption": "Agra, młodzi Hindusi mają kontakt ze światem.",
-      "caption_en": "Agra, młodzi Hindusi mają kontakt ze światem."
+      "thumb": "images/Kuba/P3070022-thumb.webp",
+      "large": "images/Kuba/P3070022-large.webp",
+      "caption": "W Hawanie dożywają swoich dni amerykańskie Chewrolety, Cadillaki, samochody amerykańskie z lat 50 tych jak ten błękitny luksusowy Packard z łabędziem.",
+      "caption_en": "W Hawanie dożywają swoich dni amerykańskie Chewrolety, Cadillaki, samochody amerykańskie z lat 50 tych jak ten błękitny luksusowy Packard z łabędziem."
     },
     {
-      "thumb": "images/Indie/P1000868-thumb.webp",
-      "large": "images/Indie/P1000868-large.webp",
-      "caption": "Agra, tu żyje się bezpiecznie, pod okiem policjantów.",
-      "caption_en": "Agra, tu żyje się bezpiecznie, pod okiem policjantów."
+      "thumb": "images/Kuba/P3070026-thumb.webp",
+      "large": "images/Kuba/P3070026-large.webp",
+      "caption": "„Zwyciężymy” propagandowe hasło w Hawanie.",
+      "caption_en": "„Zwyciężymy” propagandowe hasło w Hawanie."
     },
     {
-      "thumb": "images/Indie/P1000869-thumb.webp",
-      "large": "images/Indie/P1000869-large.webp",
-      "caption": "Agra, hinduscy studenci dobrze mówią po angielsku.",
-      "caption_en": "Agra, hinduscy studenci dobrze mówią po angielsku."
+      "thumb": "images/Kuba/P3070027-thumb.webp",
+      "large": "images/Kuba/P3070027-large.webp",
+      "caption": "Panorama Hawany nad Zatoką Meksykańską w rejonie Morza Karaibskiego.",
+      "caption_en": "Panorama Hawany nad Zatoką Meksykańską w rejonie Morza Karaibskiego."
     },
     {
-      "thumb": "images/Indie/P1000872-thumb.webp",
-      "large": "images/Indie/P1000872-large.webp",
-      "caption": "Spotkanie Karola z koleżanką z Klubu Inteligencji Katolickiej",
-      "caption_en": "Spotkanie Karola z koleżanką z Klubu Inteligencji Katolickiej"
+      "thumb": "images/Kuba/P3080043-thumb.webp",
+      "large": "images/Kuba/P3080043-large.webp",
+      "caption": "„50 lat zmagań i zwycięstw” hasło propagandowe w Haw.",
+      "caption_en": "„50 lat zmagań i zwycięstw” hasło propagandowe w Haw."
     },
     {
-      "thumb": "images/Indie/P1000873-thumb.webp",
-      "large": "images/Indie/P1000873-large.webp",
-      "caption": "Mauzoleum Taj Mahal -warto zrobić sobie zdjęcie pamiątkowe.",
-      "caption_en": "Mauzoleum Taj Mahal -warto zrobić sobie zdjęcie pamiątkowe."
+      "thumb": "images/Kuba/P3090053-thumb.webp",
+      "large": "images/Kuba/P3090053-large.webp",
+      "caption": "Karol pali kubańskie cygaro.",
+      "caption_en": "Karol pali kubańskie cygaro."
     },
     {
-      "thumb": "images/Indie/P1000876-thumb.webp",
-      "large": "images/Indie/P1000876-large.webp",
-      "caption": "Mauzoleum Taj Mahal z XVII w., poświęcone ukochanej żonie Szahdżanhana z dynastii Wielkich Mogołów.",
-      "caption_en": "Mauzoleum Taj Mahal z XVII w., poświęcone ukochanej żonie Szahdżanhana z dynastii Wielkich Mogołów."
+      "thumb": "images/Kuba/P3090057-thumb.webp",
+      "large": "images/Kuba/P3090057-large.webp",
+      "caption": "Tańce młodych Kubańczyków- Trynidad.",
+      "caption_en": "Tańce młodych Kubańczyków- Trynidad."
     },
     {
-      "thumb": "images/Indie/P1000883-thumb.webp",
-      "large": "images/Indie/P1000883-large.webp",
-      "caption": "Mauzoleum Taj Mahal – fotka na szczęście dla córki.",
-      "caption_en": "Mauzoleum Taj Mahal – fotka na szczęście dla córki."
+      "thumb": "images/Kuba/P3110074-thumb.webp",
+      "large": "images/Kuba/P3110074-large.webp",
+      "caption": "Trynidad – stare kolonialne miasteczko.",
+      "caption_en": "Trynidad – stare kolonialne miasteczko."
     },
     {
-      "thumb": "images/Indie/P1000884-thumb.webp",
-      "large": "images/Indie/P1000884-large.webp",
-      "caption": "Mauzoleum Taj Mahal – fotka zapewni szczęście małżeńskie.",
-      "caption_en": "Mauzoleum Taj Mahal – fotka zapewni szczęście małżeńskie."
+      "thumb": "images/Kuba/P3120083-thumb.webp",
+      "large": "images/Kuba/P3120083-large.webp",
+      "caption": "Trynidad - stary samochód Ford Custom z rejestracją z miasta Santo Spirito, charakterystyczne, pastelowe budynki Trynidad)",
+      "caption_en": "Trynidad - stary samochód Ford Custom z rejestracją z miasta Santo Spirito, charakterystyczne, pastelowe budynki Trynidad)"
     },
     {
-      "thumb": "images/Indie/P1000917-thumb.webp",
-      "large": "images/Indie/P1000917-large.webp",
-      "caption": "Biblioteka i czytelnia w Mumbaju, zachodnie Indie.",
-      "caption_en": "Biblioteka i czytelnia w Mumbaju, zachodnie Indie."
+      "thumb": "images/Kuba/P3120084-thumb.webp",
+      "large": "images/Kuba/P3120084-large.webp",
+      "caption": "Turyści w Trynidad.",
+      "caption_en": "Turyści w Trynidad."
     },
     {
-      "thumb": "images/Indie/P1000918-thumb.webp",
-      "large": "images/Indie/P1000918-large.webp",
-      "caption": "Budynek publiczny w Mumbaju, stolicy stanu Maharasztra.",
-      "caption_en": "Budynek publiczny w Mumbaju, stolicy stanu Maharasztra."
+      "thumb": "images/Kuba/P3120093-thumb.webp",
+      "large": "images/Kuba/P3120093-large.webp",
+      "caption": "Trynidad - charakterystyczna pastelowa wieża Iglesia y Convento de San Francisco de Assis. W centrum - Museo National de Lucha Contra Banditos. Miasto jest położone u podnóża gór Escambray.",
+      "caption_en": "Trynidad - charakterystyczna pastelowa wieża Iglesia y Convento de San Francisco de Assis. W centrum - Museo National de Lucha Contra Banditos. Miasto jest położone u podnóża gór Escambray."
     },
     {
-      "thumb": "images/Indie/P1000928-thumb.webp",
-      "large": "images/Indie/P1000928-large.webp",
-      "caption": "Gra w krykieta na Oral Maidan, ogromnym terenie rekreacyjnym w samym centrum Mumbaju. W tle budynek neogotycki, siedziba Western Railways",
-      "caption_en": "Gra w krykieta na Oral Maidan, ogromnym terenie rekreacyjnym w samym centrum Mumbaju. W tle budynek neogotycki, siedziba Western Railways"
+      "thumb": "images/Kuba/P3120100-thumb.webp",
+      "large": "images/Kuba/P3120100-large.webp",
+      "caption": "Trynidad – Museo National de Lucha – typowe fotele bujane w stylu kolonialnym „mecedoras”",
+      "caption_en": "Trynidad – Museo National de Lucha – typowe fotele bujane w stylu kolonialnym „mecedoras”"
     },
     {
-      "thumb": "images/Indie/P1000930-thumb.webp",
-      "large": "images/Indie/P1000930-large.webp",
-      "caption": "Szeroka ulica w Mumbaju, kultowe taksówki Kaali Peeli (wycofane w 2020).",
-      "caption_en": "Szeroka ulica w Mumbaju, kultowe taksówki Kaali Peeli (wycofane w 2020)."
+      "thumb": "images/Kuba/P3130130-thumb.webp",
+      "large": "images/Kuba/P3130130-large.webp",
+      "caption": "Hacienda Casa Guachinango - można napić się legendarnej kubańskiej kawy a nawet przenocować.",
+      "caption_en": "Hacienda Casa Guachinango - można napić się legendarnej kubańskiej kawy a nawet przenocować."
     },
     {
-      "thumb": "images/Indie/P1000945-thumb.webp",
-      "large": "images/Indie/P1000945-large.webp",
-      "caption": "Gra w krykieta na trawie, chłopcy przygotowują sprzęt.",
-      "caption_en": "Gra w krykieta na trawie, chłopcy przygotowują sprzęt."
+      "thumb": "images/Kuba/P3150154-thumb.webp",
+      "large": "images/Kuba/P3150154-large.webp",
+      "caption": "Santiago de Cuba. Katedra Wniebowzięcia Najświętszej Marii Panny. To drugie co do wielkości miasto Wyspy. Tutaj narodziły się kluczowe nurty muzyczne i oraz rozpoczęła się kubańska rewolucja. Główny ośrodek gospodarczy i kutluralno- naukowy.",
+      "caption_en": "Santiago de Cuba. Katedra Wniebowzięcia Najświętszej Marii Panny. To drugie co do wielkości miasto Wyspy. Tutaj narodziły się kluczowe nurty muzyczne i oraz rozpoczęła się kubańska rewolucja. Główny ośrodek gospodarczy i kutluralno- naukowy."
     },
     {
-      "thumb": "images/Indie/P1000963-thumb.webp",
-      "large": "images/Indie/P1000963-large.webp",
-      "caption": "Mumbaj, popularne zabawy z latawcem na plaży.",
-      "caption_en": "Mumbaj, popularne zabawy z latawcem na plaży."
+      "thumb": "images/Kuba/P3150171-thumb.webp",
+      "large": "images/Kuba/P3150171-large.webp",
+      "caption": "Santiago de Cuba – Zamek - Castillo de San Pedro de La Roca (El Morro). Karol i jego companeros.",
+      "caption_en": "Santiago de Cuba – Zamek - Castillo de San Pedro de La Roca (El Morro). Karol i jego companeros."
     },
     {
-      "thumb": "images/Indie/P1000967-thumb.webp",
-      "large": "images/Indie/P1000967-large.webp",
-      "caption": "Mumbaj, promenada - Junku Bal. Sympatyczni, zrelaksowani mieszkańcy.",
-      "caption_en": "Mumbaj, promenada - Junku Bal. Sympatyczni, zrelaksowani mieszkańcy."
+      "thumb": "images/Kuba/P3150176-thumb.webp",
+      "large": "images/Kuba/P3150176-large.webp",
+      "caption": "Zatoka Cay Granma, część Santiago de Cuba.",
+      "caption_en": "Zatoka Cay Granma, część Santiago de Cuba."
     },
     {
-      "thumb": "images/Indie/P1000978-thumb.webp",
-      "large": "images/Indie/P1000978-large.webp",
-      "caption": "Mumbai – elegancki widok na dzielnicę portową.",
-      "caption_en": "Mumbai – elegancki widok na dzielnicę portową."
+      "thumb": "images/Kuba/P3160190-thumb.webp",
+      "large": "images/Kuba/P3160190-large.webp",
+      "caption": "Karol na tle instalacji w dzielnicy portowej Hawany.",
+      "caption_en": "Karol na tle instalacji w dzielnicy portowej Hawany."
     },
     {
-      "thumb": "images/Indie/P1010028-thumb.webp",
-      "large": "images/Indie/P1010028-large.webp",
-      "caption": "Młodzi Hindusi z rowerami w starym Dehli (rozmowa w gwarnej przestrzeni miejskiej).",
-      "caption_en": "Młodzi Hindusi z rowerami w starym Dehli (rozmowa w gwarnej przestrzeni miejskiej)."
+      "thumb": "images/Kuba/P3200222-thumb.webp",
+      "large": "images/Kuba/P3200222-large.webp",
+      "caption": "Hawana - lokalna twórczość w okolicy Kościoła Matki Bożej z Góry Karmel.",
+      "caption_en": "Hawana - lokalna twórczość w okolicy Kościoła Matki Bożej z Góry Karmel."
+    },
+    {
+      "thumb": "images/Kuba/P3200225-thumb.webp",
+      "large": "images/Kuba/P3200225-large.webp",
+      "caption": "Hawana - Kościół z NMP z Góry Karmel. Figura waży 9 ton.",
+      "caption_en": "Hawana - Kościół z NMP z Góry Karmel. Figura waży 9 ton."
     }
   ],
-  "Indochiny": [
+  "USA (2008)": [
+    {
+      "thumb": "images/USA/P7130012-thumb.webp",
+      "large": "images/USA/P7130012-large.webp",
+      "caption": "Park Narodowy Drzewa Jozuego.",
+      "caption_en": "Park Narodowy Drzewa Jozuego."
+    },
+    {
+      "thumb": "images/USA/P7130045-thumb.webp",
+      "large": "images/USA/P7130045-large.webp",
+      "caption": "Drogowskaz na Pustyni Sonora.",
+      "caption_en": "Drogowskaz na Pustyni Sonora."
+    },
+    {
+      "thumb": "images/USA/P7130048-thumb.webp",
+      "large": "images/USA/P7130048-large.webp",
+      "caption": "„Vidal Junction” na pustyni Sonora w Kaliforni, blisko granicy z Arizoną, przypomina stację benzynową z filmu Bagdad Cafe.",
+      "caption_en": "„Vidal Junction” na pustyni Sonora w Kaliforni, blisko granicy z Arizoną, przypomina stację benzynową z filmu Bagdad Cafe."
+    },
+    {
+      "thumb": "images/USA/P7130049-thumb.webp",
+      "large": "images/USA/P7130049-large.webp",
+      "caption": "Historyczna droga matka 66 (z Santa Monica do Chicago).",
+      "caption_en": "Historyczna droga matka 66 (z Santa Monica do Chicago)."
+    },
+    {
+      "thumb": "images/USA/P7140074-thumb.webp",
+      "large": "images/USA/P7140074-large.webp",
+      "caption": "Luksusowe hotele: “Wynn”, “Encore” w Las Vegas.",
+      "caption_en": "Luksusowe hotele: “Wynn”, “Encore” w Las Vegas."
+    },
+    {
+      "thumb": "images/USA/P7140116-thumb.webp",
+      "large": "images/USA/P7140116-large.webp",
+      "caption": "Kasino, wersja skromniejsza „jednoręcy bandyci” (slots).",
+      "caption_en": "Kasino, wersja skromniejsza „jednoręcy bandyci” (slots)."
+    },
+    {
+      "thumb": "images/USA/P7170178-thumb.webp",
+      "large": "images/USA/P7170178-large.webp",
+      "caption": "Nevada Joe,s:  bar/ slots machine (automaty do gier, “jednoręcy bandyci”).",
+      "caption_en": "Nevada Joe,s:  bar/ slots machine (automaty do gier, “jednoręcy bandyci”)."
+    },
+    {
+      "thumb": "images/USA/P7170180-thumb.webp",
+      "large": "images/USA/P7170180-large.webp",
+      "caption": "Bliźniacze skrzynki pocztowe z dwóch stron drogi „US 66”.",
+      "caption_en": "Bliźniacze skrzynki pocztowe z dwóch stron drogi „US 66”."
+    },
+    {
+      "thumb": "images/USA/P7170181-thumb.webp",
+      "large": "images/USA/P7170181-large.webp",
+      "caption": "Park Narodowy Doliny Śmierci (pierwotnie ojczyzna plemion Timbisza), stan Kalifornia i zachodnia Nevada.",
+      "caption_en": "Park Narodowy Doliny Śmierci (pierwotnie ojczyzna plemion Timbisza), stan Kalifornia i zachodnia Nevada."
+    },
+    {
+      "thumb": "images/USA/P7190212-thumb.webp",
+      "large": "images/USA/P7190212-large.webp",
+      "caption": "Park Narodowy – Yosemite, w Środkowej Kaliforni i na zachodnich zboczach gór Sierra Nevada.",
+      "caption_en": "Park Narodowy – Yosemite, w Środkowej Kaliforni i na zachodnich zboczach gór Sierra Nevada."
+    },
+    {
+      "thumb": "images/USA/P7190228-thumb.webp",
+      "large": "images/USA/P7190228-large.webp",
+      "caption": "Park Narodowy Sekwoi Olbrzymich.",
+      "caption_en": "Park Narodowy Sekwoi Olbrzymich."
+    },
+    {
+      "thumb": "images/USA/P7210248-thumb.webp",
+      "large": "images/USA/P7210248-large.webp",
+      "caption": "Most Golden Gate w San Francisco.",
+      "caption_en": "Most Golden Gate w San Francisco."
+    },
+    {
+      "thumb": "images/USA/P7210250-thumb.webp",
+      "large": "images/USA/P7210250-large.webp",
+      "caption": "Pochmurne San Francisco.",
+      "caption_en": "Pochmurne San Francisco."
+    },
+    {
+      "thumb": "images/USA/P7220257-thumb.webp",
+      "large": "images/USA/P7220257-large.webp",
+      "caption": "Historyczny miejski tramwaj w San Friancisco.",
+      "caption_en": "Historyczny miejski tramwaj w San Friancisco."
+    },
+    {
+      "thumb": "images/USA/P7230261-thumb.webp",
+      "large": "images/USA/P7230261-large.webp",
+      "caption": "Google drogowskaz do Doliny Krzemowej (Silicon Valley), Googlepleks, campus Google’a w Montain View, hrabstwo Santa Clara.",
+      "caption_en": "Google drogowskaz do Doliny Krzemowej (Silicon Valley), Googlepleks, campus Google’a w Montain View, hrabstwo Santa Clara."
+    },
+    {
+      "thumb": "images/USA/P7240271-thumb.webp",
+      "large": "images/USA/P7240271-large.webp",
+      "caption": "Santa Monica, flaga Kaliforni.",
+      "caption_en": "Santa Monica, flaga Kaliforni."
+    },
+    {
+      "thumb": "images/USA/P7250286-thumb.webp",
+      "large": "images/USA/P7250286-large.webp",
+      "caption": "Santa Monica Pier – diabelski Młyn, kultowe molo w SM, kręcono tam filmy: Forrest Gump, Iron Man, Żądło, Hanah Montana.",
+      "caption_en": "Santa Monica Pier – diabelski Młyn, kultowe molo w SM, kręcono tam filmy: Forrest Gump, Iron Man, Żądło, Hanah Montana."
+    },
+    {
+      "thumb": "images/USA/P7260292-thumb.webp",
+      "large": "images/USA/P7260292-large.webp",
+      "caption": "New York „Pamiętamy 11 września 2001 Manhattan”.",
+      "caption_en": "New York „Pamiętamy 11 września 2001 Manhattan”."
+    },
+    {
+      "thumb": "images/USA/P7270311-thumb.webp",
+      "large": "images/USA/P7270311-large.webp",
+      "caption": "Słynny budynek z rzeźbą Atlasa, w kompleksie Rockefeler Center na Manhattanie jedno z najbardziej rozpoznawalnych miejsc w Midtown, vis a vis Katedry św. Patryka.",
+      "caption_en": "Słynny budynek z rzeźbą Atlasa, w kompleksie Rockefeler Center na Manhattanie jedno z najbardziej rozpoznawalnych miejsc w Midtown, vis a vis Katedry św. Patryka."
+    },
+    {
+      "thumb": "images/USA/P7290330-thumb.webp",
+      "large": "images/USA/P7290330-large.webp",
+      "caption": "New York z Mostu Brooklińskiego Empire State Building, Rockefeler Centre.",
+      "caption_en": "New York z Mostu Brooklińskiego Empire State Building, Rockefeler Centre."
+    },
+    {
+      "thumb": "images/USA/P7290332-thumb.webp",
+      "large": "images/USA/P7290332-large.webp",
+      "caption": "N.Y.- z widokiem na Central Park i otaczające go bezpośrednio brązowe budynki luksusowej dzielnicy, widziane z tarasu Top of the Rock na Rockefeler Centre.",
+      "caption_en": "N.Y.- z widokiem na Central Park i otaczające go bezpośrednio brązowe budynki luksusowej dzielnicy, widziane z tarasu Top of the Rock na Rockefeler Centre."
+    },
+    {
+      "thumb": "images/USA/P7310361-thumb.webp",
+      "large": "images/USA/P7310361-large.webp",
+      "caption": "Kodak Theatre (Dolby Theatre) w Los Angeles (Hollywood Boulevard). Miejsce przyznawania Oskarów.",
+      "caption_en": "Kodak Theatre (Dolby Theatre) w Los Angeles (Hollywood Boulevard). Miejsce przyznawania Oskarów."
+    },
+    {
+      "thumb": "images/USA/P7310363-thumb.webp",
+      "large": "images/USA/P7310363-large.webp",
+      "caption": "Los Angeles- w paśmie wzgórz Santa Monica-  Hollywood.",
+      "caption_en": "Los Angeles- w paśmie wzgórz Santa Monica-  Hollywood."
+    }
+  ],
+  "INDOCHINY (2008)": [
     {
       "thumb": "images/Indochiny/P1010011-thumb.webp",
       "large": "images/Indochiny/P1010011-large.webp",
@@ -602,147 +706,7 @@ window.GALLERY_DATA.travels ={
       "caption_en": "W Kambodży dbają o szkolnictwo, język Khmerów jest raczej nieznany na świecie, uczcie się dzieci angielskiego."
     }
   ],
-  "Kuba": [
-    {
-      "thumb": "images/Kuba/P3060001-thumb.webp",
-      "large": "images/Kuba/P3060001-large.webp",
-      "caption": "Kuba, piękna „wyspa jak wulkan gorąca”, widziana z samolotu.",
-      "caption_en": "Kuba, piękna „wyspa jak wulkan gorąca”, widziana z samolotu."
-    },
-    {
-      "thumb": "images/Kuba/P3070010-thumb.webp",
-      "large": "images/Kuba/P3070010-large.webp",
-      "caption": "Hawana - sypią się ślady dawnej świetności.",
-      "caption_en": "Hawana - sypią się ślady dawnej świetności."
-    },
-    {
-      "thumb": "images/Kuba/P3070012-thumb.webp",
-      "large": "images/Kuba/P3070012-large.webp",
-      "caption": "Hawana - kościół: Iglesia y Convento de Nuestra Segnora del Carmen na rogu ulic Infanta i Neptuno.",
-      "caption_en": "Hawana - kościół: Iglesia y Convento de Nuestra Segnora del Carmen na rogu ulic Infanta i Neptuno."
-    },
-    {
-      "thumb": "images/Kuba/P3070013-thumb.webp",
-      "large": "images/Kuba/P3070013-large.webp",
-      "caption": "Hawana - plac i stoiska bukinistów w Hawanie.",
-      "caption_en": "Hawana - plac i stoiska bukinistów w Hawanie."
-    },
-    {
-      "thumb": "images/Kuba/P3070017-thumb.webp",
-      "large": "images/Kuba/P3070017-large.webp",
-      "caption": "Hawana - Katedra Niepokalanego Poczęcia NMP i Plac Katedralny.",
-      "caption_en": "Hawana - Katedra Niepokalanego Poczęcia NMP i Plac Katedralny."
-    },
-    {
-      "thumb": "images/Kuba/P3070022-thumb.webp",
-      "large": "images/Kuba/P3070022-large.webp",
-      "caption": "W Hawanie dożywają swoich dni amerykańskie Chewrolety, Cadillaki, samochody amerykańskie z lat 50 tych jak ten błękitny luksusowy Packard z łabędziem.",
-      "caption_en": "W Hawanie dożywają swoich dni amerykańskie Chewrolety, Cadillaki, samochody amerykańskie z lat 50 tych jak ten błękitny luksusowy Packard z łabędziem."
-    },
-    {
-      "thumb": "images/Kuba/P3070026-thumb.webp",
-      "large": "images/Kuba/P3070026-large.webp",
-      "caption": "„Zwyciężymy” propagandowe hasło w Hawanie.",
-      "caption_en": "„Zwyciężymy” propagandowe hasło w Hawanie."
-    },
-    {
-      "thumb": "images/Kuba/P3070027-thumb.webp",
-      "large": "images/Kuba/P3070027-large.webp",
-      "caption": "Panorama Hawany nad Zatoką Meksykańską w rejonie Morza Karaibskiego.",
-      "caption_en": "Panorama Hawany nad Zatoką Meksykańską w rejonie Morza Karaibskiego."
-    },
-    {
-      "thumb": "images/Kuba/P3080043-thumb.webp",
-      "large": "images/Kuba/P3080043-large.webp",
-      "caption": "„50 lat zmagań i zwycięstw” hasło propagandowe w Haw.",
-      "caption_en": "„50 lat zmagań i zwycięstw” hasło propagandowe w Haw."
-    },
-    {
-      "thumb": "images/Kuba/P3090053-thumb.webp",
-      "large": "images/Kuba/P3090053-large.webp",
-      "caption": "Karol pali kubańskie cygaro.",
-      "caption_en": "Karol pali kubańskie cygaro."
-    },
-    {
-      "thumb": "images/Kuba/P3090057-thumb.webp",
-      "large": "images/Kuba/P3090057-large.webp",
-      "caption": "Tańce młodych Kubańczyków- Trynidad.",
-      "caption_en": "Tańce młodych Kubańczyków- Trynidad."
-    },
-    {
-      "thumb": "images/Kuba/P3110074-thumb.webp",
-      "large": "images/Kuba/P3110074-large.webp",
-      "caption": "Trynidad – stare kolonialne miasteczko.",
-      "caption_en": "Trynidad – stare kolonialne miasteczko."
-    },
-    {
-      "thumb": "images/Kuba/P3120083-thumb.webp",
-      "large": "images/Kuba/P3120083-large.webp",
-      "caption": "Trynidad - stary samochód Ford Custom z rejestracją z miasta Santo Spirito, charakterystyczne, pastelowe budynki Trynidad)",
-      "caption_en": "Trynidad - stary samochód Ford Custom z rejestracją z miasta Santo Spirito, charakterystyczne, pastelowe budynki Trynidad)"
-    },
-    {
-      "thumb": "images/Kuba/P3120084-thumb.webp",
-      "large": "images/Kuba/P3120084-large.webp",
-      "caption": "Turyści w Trynidad.",
-      "caption_en": "Turyści w Trynidad."
-    },
-    {
-      "thumb": "images/Kuba/P3120093-thumb.webp",
-      "large": "images/Kuba/P3120093-large.webp",
-      "caption": "Trynidad - charakterystyczna pastelowa wieża Iglesia y Convento de San Francisco de Assis. W centrum - Museo National de Lucha Contra Banditos. Miasto jest położone u podnóża gór Escambray.",
-      "caption_en": "Trynidad - charakterystyczna pastelowa wieża Iglesia y Convento de San Francisco de Assis. W centrum - Museo National de Lucha Contra Banditos. Miasto jest położone u podnóża gór Escambray."
-    },
-    {
-      "thumb": "images/Kuba/P3120100-thumb.webp",
-      "large": "images/Kuba/P3120100-large.webp",
-      "caption": "Trynidad – Museo National de Lucha – typowe fotele bujane w stylu kolonialnym „mecedoras”",
-      "caption_en": "Trynidad – Museo National de Lucha – typowe fotele bujane w stylu kolonialnym „mecedoras”"
-    },
-    {
-      "thumb": "images/Kuba/P3130130-thumb.webp",
-      "large": "images/Kuba/P3130130-large.webp",
-      "caption": "Hacienda Casa Guachinango - można napić się legendarnej kubańskiej kawy a nawet przenocować.",
-      "caption_en": "Hacienda Casa Guachinango - można napić się legendarnej kubańskiej kawy a nawet przenocować."
-    },
-    {
-      "thumb": "images/Kuba/P3150154-thumb.webp",
-      "large": "images/Kuba/P3150154-large.webp",
-      "caption": "Santiago de Cuba. Katedra Wniebowzięcia Najświętszej Marii Panny. To drugie co do wielkości miasto Wyspy. Tutaj narodziły się kluczowe nurty muzyczne i oraz rozpoczęła się kubańska rewolucja. Główny ośrodek gospodarczy i kutluralno- naukowy.",
-      "caption_en": "Santiago de Cuba. Katedra Wniebowzięcia Najświętszej Marii Panny. To drugie co do wielkości miasto Wyspy. Tutaj narodziły się kluczowe nurty muzyczne i oraz rozpoczęła się kubańska rewolucja. Główny ośrodek gospodarczy i kutluralno- naukowy."
-    },
-    {
-      "thumb": "images/Kuba/P3150171-thumb.webp",
-      "large": "images/Kuba/P3150171-large.webp",
-      "caption": "Santiago de Cuba – Zamek - Castillo de San Pedro de La Roca (El Morro). Karol i jego companeros.",
-      "caption_en": "Santiago de Cuba – Zamek - Castillo de San Pedro de La Roca (El Morro). Karol i jego companeros."
-    },
-    {
-      "thumb": "images/Kuba/P3150176-thumb.webp",
-      "large": "images/Kuba/P3150176-large.webp",
-      "caption": "Zatoka Cay Granma, część Santiago de Cuba.",
-      "caption_en": "Zatoka Cay Granma, część Santiago de Cuba."
-    },
-    {
-      "thumb": "images/Kuba/P3160190-thumb.webp",
-      "large": "images/Kuba/P3160190-large.webp",
-      "caption": "Karol na tle instalacji w dzielnicy portowej Hawany.",
-      "caption_en": "Karol na tle instalacji w dzielnicy portowej Hawany."
-    },
-    {
-      "thumb": "images/Kuba/P3200222-thumb.webp",
-      "large": "images/Kuba/P3200222-large.webp",
-      "caption": "Hawana - lokalna twórczość w okolicy Kościoła Matki Bożej z Góry Karmel.",
-      "caption_en": "Hawana - lokalna twórczość w okolicy Kościoła Matki Bożej z Góry Karmel."
-    },
-    {
-      "thumb": "images/Kuba/P3200225-thumb.webp",
-      "large": "images/Kuba/P3200225-large.webp",
-      "caption": "Hawana - Kościół z NMP z Góry Karmel. Figura waży 9 ton.",
-      "caption_en": "Hawana - Kościół z NMP z Góry Karmel. Figura waży 9 ton."
-    }
-  ],
-  "Nepal": [
+  "NEPAL (2010)": [
     {
       "thumb": "images/Nepal/P1000262-thumb.webp",
       "large": "images/Nepal/P1000262-large.webp",
@@ -882,236 +846,272 @@ window.GALLERY_DATA.travels ={
       "caption_en": "Karol idzie w dół przy ruchomych młynkach modlitewnych „Mur Mani”."
     }
   ],
-  "Tatry": [
+  "INDIE (2010)": [
     {
-      "thumb": "images/Tatry/00-thumb.webp",
-      "large": "images/Tatry/00-large.webp",
-      "caption": "KG pokonuje lodospad nad Zmarzłym Stawem (1788).",
-      "caption_en": "KG pokonuje lodospad nad Zmarzłym Stawem (1788)."
+      "thumb": "images/Indie/P1000802-thumb.webp",
+      "large": "images/Indie/P1000802-large.webp",
+      "caption": "Wydział muzykologii w kompleksie uniwersyteckim w mieście Waranesi. Jest to jedno z najstarszych, nieprzerwanie zamieszkałych miast na świecie, położone nad Gangesem (w stanie Uttar Pradesh), znane jako duchowa stolica Indii. Północne Indie. Typowy budynek dla Waranesi.",
+      "caption_en": "Wydział muzykologii w kompleksie uniwersyteckim w mieście Waranesi. Jest to jedno z najstarszych, nieprzerwanie zamieszkałych miast na świecie, położone nad Gangesem (w stanie Uttar Pradesh), znane jako duchowa stolica Indii. Północne Indie. Typowy budynek dla Waranesi."
     },
     {
-      "thumb": "images/Tatry/01-thumb.webp",
-      "large": "images/Tatry/01-large.webp",
-      "caption": "KG podczas pokonywania lodospadu nad Zmarzłym Stawem.",
-      "caption_en": "KG podczas pokonywania lodospadu nad Zmarzłym Stawem."
+      "thumb": "images/Indie/P1000806-thumb.webp",
+      "large": "images/Indie/P1000806-large.webp",
+      "caption": "Agra, miasto w stanie Uttar Pradesh, urok dawnej świetności.",
+      "caption_en": "Agra, miasto w stanie Uttar Pradesh, urok dawnej świetności."
     },
     {
-      "thumb": "images/Tatry/02-thumb.webp",
-      "large": "images/Tatry/02-large.webp",
-      "caption": "KG na przewieszonym fragmencie lodospadu nad Zmarzłym Stawem.",
-      "caption_en": "KG na przewieszonym fragmencie lodospadu nad Zmarzłym Stawem."
+      "thumb": "images/Indie/P1000813-thumb.webp",
+      "large": "images/Indie/P1000813-large.webp",
+      "caption": "Agra, miasto Złotego Trójkąta (Dehli, Agra, Jaipur) sławne z powodu słynnych budowli np. mauzoleum Taj Mahal z okresu Wielkich Mogołów. Widok w perspektywę ulicy, Różowa brama i strażnik.",
+      "caption_en": "Agra, miasto Złotego Trójkąta (Dehli, Agra, Jaipur) sławne z powodu słynnych budowli np. mauzoleum Taj Mahal z okresu Wielkich Mogołów. Widok w perspektywę ulicy, Różowa brama i strażnik."
     },
     {
-      "thumb": "images/Tatry/03-thumb.webp",
-      "large": "images/Tatry/03-large.webp",
-      "caption": "KG w drodze na Przełęcz Zawrat (2158)",
-      "caption_en": "KG w drodze na Przełęcz Zawrat (2158)"
+      "thumb": "images/Indie/P1000833-thumb.webp",
+      "large": "images/Indie/P1000833-large.webp",
+      "caption": "Agra, zdjęcie oddaje wrażenie gwaru ulicy.",
+      "caption_en": "Agra, zdjęcie oddaje wrażenie gwaru ulicy."
     },
     {
-      "thumb": "images/Tatry/04-thumb.webp",
-      "large": "images/Tatry/04-large.webp",
-      "caption": "K. G w końcowym etapie drogi na przełęcz Pańszczycką (2115)",
-      "caption_en": "K. G w końcowym etapie drogi na przełęcz Pańszczycką (2115)"
+      "thumb": "images/Indie/P1000843-thumb.webp",
+      "large": "images/Indie/P1000843-large.webp",
+      "caption": "Agra, miasto, budynki przypominają rzeźby",
+      "caption_en": "Agra, miasto, budynki przypominają rzeźby"
     },
     {
-      "thumb": "images/Tatry/05-thumb.webp",
-      "large": "images/Tatry/05-large.webp",
-      "caption": "KG droga na przełęcz Pańszczycką (2115)",
-      "caption_en": "KG droga na przełęcz Pańszczycką (2115)"
+      "thumb": "images/Indie/P1000863-thumb.webp",
+      "large": "images/Indie/P1000863-large.webp",
+      "caption": "Agra, młodzi Hindusi mają kontakt ze światem.",
+      "caption_en": "Agra, młodzi Hindusi mają kontakt ze światem."
     },
     {
-      "thumb": "images/Tatry/06-thumb.webp",
-      "large": "images/Tatry/06-large.webp",
-      "caption": "J.Sufczyński, KG, J. Konarski na przełęczy Karb (1853)",
-      "caption_en": "J.Sufczyński, KG, J. Konarski na przełęczy Karb (1853)"
+      "thumb": "images/Indie/P1000868-thumb.webp",
+      "large": "images/Indie/P1000868-large.webp",
+      "caption": "Agra, tu żyje się bezpiecznie, pod okiem policjantów.",
+      "caption_en": "Agra, tu żyje się bezpiecznie, pod okiem policjantów."
     },
     {
-      "thumb": "images/Tatry/PC270003-thumb.webp",
-      "large": "images/Tatry/PC270003-large.webp",
-      "caption": "Tegoroczna ekipa (2007) KG z lewej zbiera się na przystanku autobusowym. Stare budki telefoniczne (nie było komórek)",
-      "caption_en": "Tegoroczna ekipa (2007) KG z lewej zbiera się na przystanku autobusowym. Stare budki telefoniczne (nie było komórek)"
+      "thumb": "images/Indie/P1000869-thumb.webp",
+      "large": "images/Indie/P1000869-large.webp",
+      "caption": "Agra, hinduscy studenci dobrze mówią po angielsku.",
+      "caption_en": "Agra, hinduscy studenci dobrze mówią po angielsku."
     },
     {
-      "thumb": "images/Tatry/PC270007-thumb.webp",
-      "large": "images/Tatry/PC270007-large.webp",
-      "caption": "Widok na Podhale, na prawo Gorce.",
-      "caption_en": "Widok na Podhale, na prawo Gorce."
+      "thumb": "images/Indie/P1000872-thumb.webp",
+      "large": "images/Indie/P1000872-large.webp",
+      "caption": "Spotkanie Karola z koleżanką z Klubu Inteligencji Katolickiej",
+      "caption_en": "Spotkanie Karola z koleżanką z Klubu Inteligencji Katolickiej"
     },
     {
-      "thumb": "images/Tatry/PC270009-thumb.webp",
-      "large": "images/Tatry/PC270009-large.webp",
-      "caption": "Początek Hali Gąsienicowej, Betlejemka (GOPR) z której odbywają się wyprawy.",
-      "caption_en": "Początek Hali Gąsienicowej, Betlejemka (GOPR) z której odbywają się wyprawy."
+      "thumb": "images/Indie/P1000873-thumb.webp",
+      "large": "images/Indie/P1000873-large.webp",
+      "caption": "Mauzoleum Taj Mahal -warto zrobić sobie zdjęcie pamiątkowe.",
+      "caption_en": "Mauzoleum Taj Mahal -warto zrobić sobie zdjęcie pamiątkowe."
     },
     {
-      "thumb": "images/Tatry/PC270010-thumb.webp",
-      "large": "images/Tatry/PC270010-large.webp",
-      "caption": "Powyżej schroniska na Hali Gąsienicowej.",
-      "caption_en": "Powyżej schroniska na Hali Gąsienicowej."
+      "thumb": "images/Indie/P1000876-thumb.webp",
+      "large": "images/Indie/P1000876-large.webp",
+      "caption": "Mauzoleum Taj Mahal z XVII w., poświęcone ukochanej żonie Szahdżanhana z dynastii Wielkich Mogołów.",
+      "caption_en": "Mauzoleum Taj Mahal z XVII w., poświęcone ukochanej żonie Szahdżanhana z dynastii Wielkich Mogołów."
     },
     {
-      "thumb": "images/Tatry/PC280043-thumb.webp",
-      "large": "images/Tatry/PC280043-large.webp",
-      "caption": "Nad Czarnym Stawem Gąsienicowym.",
-      "caption_en": "Nad Czarnym Stawem Gąsienicowym."
+      "thumb": "images/Indie/P1000883-thumb.webp",
+      "large": "images/Indie/P1000883-large.webp",
+      "caption": "Mauzoleum Taj Mahal – fotka na szczęście dla córki.",
+      "caption_en": "Mauzoleum Taj Mahal – fotka na szczęście dla córki."
     },
     {
-      "thumb": "images/Tatry/PC290077-thumb.webp",
-      "large": "images/Tatry/PC290077-large.webp",
-      "caption": "Pierwsze kroczki na skale.",
-      "caption_en": "Pierwsze kroczki na skale."
+      "thumb": "images/Indie/P1000884-thumb.webp",
+      "large": "images/Indie/P1000884-large.webp",
+      "caption": "Mauzoleum Taj Mahal – fotka zapewni szczęście małżeńskie.",
+      "caption_en": "Mauzoleum Taj Mahal – fotka zapewni szczęście małżeńskie."
     },
     {
-      "thumb": "images/Tatry/PC290087-thumb.webp",
-      "large": "images/Tatry/PC290087-large.webp",
-      "caption": "Podciąganie a reszta zespołu czeka na dole.",
-      "caption_en": "Podciąganie a reszta zespołu czeka na dole."
+      "thumb": "images/Indie/P1000917-thumb.webp",
+      "large": "images/Indie/P1000917-large.webp",
+      "caption": "Biblioteka i czytelnia w Mumbaju, zachodnie Indie.",
+      "caption_en": "Biblioteka i czytelnia w Mumbaju, zachodnie Indie."
     },
     {
-      "thumb": "images/Tatry/PC300115-thumb.webp",
-      "large": "images/Tatry/PC300115-large.webp",
-      "caption": "Widok na Podhale, po lewej Babia Góra.",
-      "caption_en": "Widok na Podhale, po lewej Babia Góra."
+      "thumb": "images/Indie/P1000918-thumb.webp",
+      "large": "images/Indie/P1000918-large.webp",
+      "caption": "Budynek publiczny w Mumbaju, stolicy stanu Maharasztra.",
+      "caption_en": "Budynek publiczny w Mumbaju, stolicy stanu Maharasztra."
+    },
+    {
+      "thumb": "images/Indie/P1000928-thumb.webp",
+      "large": "images/Indie/P1000928-large.webp",
+      "caption": "Gra w krykieta na Oral Maidan, ogromnym terenie rekreacyjnym w samym centrum Mumbaju. W tle budynek neogotycki, siedziba Western Railways",
+      "caption_en": "Gra w krykieta na Oral Maidan, ogromnym terenie rekreacyjnym w samym centrum Mumbaju. W tle budynek neogotycki, siedziba Western Railways"
+    },
+    {
+      "thumb": "images/Indie/P1000930-thumb.webp",
+      "large": "images/Indie/P1000930-large.webp",
+      "caption": "Szeroka ulica w Mumbaju, kultowe taksówki Kaali Peeli (wycofane w 2020).",
+      "caption_en": "Szeroka ulica w Mumbaju, kultowe taksówki Kaali Peeli (wycofane w 2020)."
+    },
+    {
+      "thumb": "images/Indie/P1000945-thumb.webp",
+      "large": "images/Indie/P1000945-large.webp",
+      "caption": "Gra w krykieta na trawie, chłopcy przygotowują sprzęt.",
+      "caption_en": "Gra w krykieta na trawie, chłopcy przygotowują sprzęt."
+    },
+    {
+      "thumb": "images/Indie/P1000963-thumb.webp",
+      "large": "images/Indie/P1000963-large.webp",
+      "caption": "Mumbaj, popularne zabawy z latawcem na plaży.",
+      "caption_en": "Mumbaj, popularne zabawy z latawcem na plaży."
+    },
+    {
+      "thumb": "images/Indie/P1000967-thumb.webp",
+      "large": "images/Indie/P1000967-large.webp",
+      "caption": "Mumbaj, promenada - Junku Bal. Sympatyczni, zrelaksowani mieszkańcy.",
+      "caption_en": "Mumbaj, promenada - Junku Bal. Sympatyczni, zrelaksowani mieszkańcy."
+    },
+    {
+      "thumb": "images/Indie/P1000978-thumb.webp",
+      "large": "images/Indie/P1000978-large.webp",
+      "caption": "Mumbai – elegancki widok na dzielnicę portową.",
+      "caption_en": "Mumbai – elegancki widok na dzielnicę portową."
+    },
+    {
+      "thumb": "images/Indie/P1010028-thumb.webp",
+      "large": "images/Indie/P1010028-large.webp",
+      "caption": "Młodzi Hindusi z rowerami w starym Dehli (rozmowa w gwarnej przestrzeni miejskiej).",
+      "caption_en": "Młodzi Hindusi z rowerami w starym Dehli (rozmowa w gwarnej przestrzeni miejskiej)."
     }
   ],
-  "USA": [
+  "AFRYKA (2010)": [
     {
-      "thumb": "images/USA/P7130012-thumb.webp",
-      "large": "images/USA/P7130012-large.webp",
-      "caption": "Park Narodowy Drzewa Jozuego.",
-      "caption_en": "Park Narodowy Drzewa Jozuego."
+      "thumb": "images/Afryka/P1010624-thumb.webp",
+      "large": "images/Afryka/P1010624-large.webp",
+      "caption": "Hotel we wschodniej Afryce.",
+      "caption_en": "Hotel we wschodniej Afryce."
     },
     {
-      "thumb": "images/USA/P7130045-thumb.webp",
-      "large": "images/USA/P7130045-large.webp",
-      "caption": "Drogowskaz na Pustyni Sonora.",
-      "caption_en": "Drogowskaz na Pustyni Sonora."
+      "thumb": "images/Afryka/P1010627-thumb.webp",
+      "large": "images/Afryka/P1010627-large.webp",
+      "caption": "Wycieczka rowerowa w Hell’s Gate National Park w Kenii.",
+      "caption_en": "Wycieczka rowerowa w Hell’s Gate National Park w Kenii."
     },
     {
-      "thumb": "images/USA/P7130048-thumb.webp",
-      "large": "images/USA/P7130048-large.webp",
-      "caption": "„Vidal Junction” na pustyni Sonora w Kaliforni, blisko granicy z Arizoną, przypomina stację benzynową z filmu Bagdad Cafe.",
-      "caption_en": "„Vidal Junction” na pustyni Sonora w Kaliforni, blisko granicy z Arizoną, przypomina stację benzynową z filmu Bagdad Cafe."
+      "thumb": "images/Afryka/P1010636-thumb.webp",
+      "large": "images/Afryka/P1010636-large.webp",
+      "caption": "Wycieczka rowerowa w Hell’s Gate National Park w Kenii.",
+      "caption_en": "Wycieczka rowerowa w Hell’s Gate National Park w Kenii."
     },
     {
-      "thumb": "images/USA/P7130049-thumb.webp",
-      "large": "images/USA/P7130049-large.webp",
-      "caption": "Historyczna droga matka 66 (z Santa Monica do Chicago).",
-      "caption_en": "Historyczna droga matka 66 (z Santa Monica do Chicago)."
+      "thumb": "images/Afryka/P1010658-thumb.webp",
+      "large": "images/Afryka/P1010658-large.webp",
+      "caption": "Park Narodowy bezpiecznego safari.",
+      "caption_en": "Park Narodowy bezpiecznego safari."
     },
     {
-      "thumb": "images/USA/P7140074-thumb.webp",
-      "large": "images/USA/P7140074-large.webp",
-      "caption": "Luksusowe hotele: “Wynn”, “Encore” w Las Vegas.",
-      "caption_en": "Luksusowe hotele: “Wynn”, “Encore” w Las Vegas."
+      "thumb": "images/Afryka/P1010659-thumb.webp",
+      "large": "images/Afryka/P1010659-large.webp",
+      "caption": "Park Narodowy bezpiecznego safari.",
+      "caption_en": "Park Narodowy bezpiecznego safari."
     },
     {
-      "thumb": "images/USA/P7140116-thumb.webp",
-      "large": "images/USA/P7140116-large.webp",
-      "caption": "Kasino, wersja skromniejsza „jednoręcy bandyci” (slots).",
-      "caption_en": "Kasino, wersja skromniejsza „jednoręcy bandyci” (slots)."
+      "thumb": "images/Afryka/P1020019-thumb.webp",
+      "large": "images/Afryka/P1020019-large.webp",
+      "caption": "Trekking w dżungli, w Parku Narodowym Goryli w Nkuringo.",
+      "caption_en": "Trekking w dżungli, w Parku Narodowym Goryli w Nkuringo."
     },
     {
-      "thumb": "images/USA/P7170178-thumb.webp",
-      "large": "images/USA/P7170178-large.webp",
-      "caption": "Nevada Joe,s:  bar/ slots machine (automaty do gier, “jednoręcy bandyci”).",
-      "caption_en": "Nevada Joe,s:  bar/ slots machine (automaty do gier, “jednoręcy bandyci”)."
+      "thumb": "images/Afryka/P1020021-thumb.webp",
+      "large": "images/Afryka/P1020021-large.webp",
+      "caption": "Trekking w Parku Narodowym Wirunga.",
+      "caption_en": "Trekking w Parku Narodowym Wirunga."
     },
     {
-      "thumb": "images/USA/P7170180-thumb.webp",
-      "large": "images/USA/P7170180-large.webp",
-      "caption": "Bliźniacze skrzynki pocztowe z dwóch stron drogi „US 66”.",
-      "caption_en": "Bliźniacze skrzynki pocztowe z dwóch stron drogi „US 66”."
+      "thumb": "images/Afryka/P1020037-thumb.webp",
+      "large": "images/Afryka/P1020037-large.webp",
+      "caption": "Kooperatywa mieszkańców ma propozycje dla turystów.",
+      "caption_en": "Kooperatywa mieszkańców ma propozycje dla turystów."
     },
     {
-      "thumb": "images/USA/P7170181-thumb.webp",
-      "large": "images/USA/P7170181-large.webp",
-      "caption": "Park Narodowy Doliny Śmierci (pierwotnie ojczyzna plemion Timbisza), stan Kalifornia i zachodnia Nevada.",
-      "caption_en": "Park Narodowy Doliny Śmierci (pierwotnie ojczyzna plemion Timbisza), stan Kalifornia i zachodnia Nevada."
+      "thumb": "images/Afryka/P1020047-thumb.webp",
+      "large": "images/Afryka/P1020047-large.webp",
+      "caption": "Muzycy Masajowie przygotowują się do koncertu.",
+      "caption_en": "Muzycy Masajowie przygotowują się do koncertu."
     },
     {
-      "thumb": "images/USA/P7190212-thumb.webp",
-      "large": "images/USA/P7190212-large.webp",
-      "caption": "Park Narodowy – Yosemite, w Środkowej Kaliforni i na zachodnich zboczach gór Sierra Nevada.",
-      "caption_en": "Park Narodowy – Yosemite, w Środkowej Kaliforni i na zachodnich zboczach gór Sierra Nevada."
+      "thumb": "images/Afryka/P1020049-thumb.webp",
+      "large": "images/Afryka/P1020049-large.webp",
+      "caption": "Masajskie dzieciaki.",
+      "caption_en": "Masajskie dzieciaki."
     },
     {
-      "thumb": "images/USA/P7190228-thumb.webp",
-      "large": "images/USA/P7190228-large.webp",
-      "caption": "Park Narodowy Sekwoi Olbrzymich.",
-      "caption_en": "Park Narodowy Sekwoi Olbrzymich."
+      "thumb": "images/Afryka/P1020051-thumb.webp",
+      "large": "images/Afryka/P1020051-large.webp",
+      "caption": "Zaczęły się tańce.",
+      "caption_en": "Zaczęły się tańce."
     },
     {
-      "thumb": "images/USA/P7210248-thumb.webp",
-      "large": "images/USA/P7210248-large.webp",
-      "caption": "Most Golden Gate w San Francisco.",
-      "caption_en": "Most Golden Gate w San Francisco."
+      "thumb": "images/Afryka/P1020063-thumb.webp",
+      "large": "images/Afryka/P1020063-large.webp",
+      "caption": "Muzyk gra na bębnach o zachodzie słońca.",
+      "caption_en": "Muzyk gra na bębnach o zachodzie słońca."
     },
     {
-      "thumb": "images/USA/P7210250-thumb.webp",
-      "large": "images/USA/P7210250-large.webp",
-      "caption": "Pochmurne San Francisco.",
-      "caption_en": "Pochmurne San Francisco."
+      "thumb": "images/Afryka/P1020079-thumb.webp",
+      "large": "images/Afryka/P1020079-large.webp",
+      "caption": "Łańcuch wulkanów Wirunga i Mount Karisimbi o poranku.",
+      "caption_en": "Łańcuch wulkanów Wirunga i Mount Karisimbi o poranku."
     },
     {
-      "thumb": "images/USA/P7220257-thumb.webp",
-      "large": "images/USA/P7220257-large.webp",
-      "caption": "Historyczny miejski tramwaj w San Friancisco.",
-      "caption_en": "Historyczny miejski tramwaj w San Friancisco."
+      "thumb": "images/Afryka/P1020082-thumb.webp",
+      "large": "images/Afryka/P1020082-large.webp",
+      "caption": "Jezioro Mutanda w Parku Narodowym Wirunga, bardzo popularne wśród trekkerów.",
+      "caption_en": "Jezioro Mutanda w Parku Narodowym Wirunga, bardzo popularne wśród trekkerów."
     },
     {
-      "thumb": "images/USA/P7230261-thumb.webp",
-      "large": "images/USA/P7230261-large.webp",
-      "caption": "Google drogowskaz do Doliny Krzemowej (Silicon Valley), Googlepleks, campus Google’a w Montain View, hrabstwo Santa Clara.",
-      "caption_en": "Google drogowskaz do Doliny Krzemowej (Silicon Valley), Googlepleks, campus Google’a w Montain View, hrabstwo Santa Clara."
+      "thumb": "images/Afryka/P1020084-thumb.webp",
+      "large": "images/Afryka/P1020084-large.webp",
+      "caption": "Grupa dzieci Masajów.",
+      "caption_en": "Grupa dzieci Masajów."
     },
     {
-      "thumb": "images/USA/P7240271-thumb.webp",
-      "large": "images/USA/P7240271-large.webp",
-      "caption": "Santa Monica, flaga Kaliforni.",
-      "caption_en": "Santa Monica, flaga Kaliforni."
+      "thumb": "images/Afryka/P1020085-thumb.webp",
+      "large": "images/Afryka/P1020085-large.webp",
+      "caption": "„Diecezja Kirundo” w Burundi, rekolekcje.",
+      "caption_en": "„Diecezja Kirundo” w Burundi, rekolekcje."
     },
     {
-      "thumb": "images/USA/P7250286-thumb.webp",
-      "large": "images/USA/P7250286-large.webp",
-      "caption": "Santa Monica Pier – diabelski Młyn, kultowe molo w SM, kręcono tam filmy: Forrest Gump, Iron Man, Żądło, Hanah Montana.",
-      "caption_en": "Santa Monica Pier – diabelski Młyn, kultowe molo w SM, kręcono tam filmy: Forrest Gump, Iron Man, Żądło, Hanah Montana."
+      "thumb": "images/Afryka/P1020090-thumb.webp",
+      "large": "images/Afryka/P1020090-large.webp",
+      "caption": "Trekking wokół jednego z najpiękniejszych jezior w Aryce wschodniej, jeziora Mutanda.",
+      "caption_en": "Trekking wokół jednego z najpiękniejszych jezior w Aryce wschodniej, jeziora Mutanda."
     },
     {
-      "thumb": "images/USA/P7260292-thumb.webp",
-      "large": "images/USA/P7260292-large.webp",
-      "caption": "New York „Pamiętamy 11 września 2001 Manhattan”.",
-      "caption_en": "New York „Pamiętamy 11 września 2001 Manhattan”."
+      "thumb": "images/Afryka/P1020091-thumb.webp",
+      "large": "images/Afryka/P1020091-large.webp",
+      "caption": "Lódź jest wypalana i ręcznie wydrążana.",
+      "caption_en": "Lódź jest wypalana i ręcznie wydrążana."
     },
     {
-      "thumb": "images/USA/P7270311-thumb.webp",
-      "large": "images/USA/P7270311-large.webp",
-      "caption": "Słynny budynek z rzeźbą Atlasa, w kompleksie Rockefeler Center na Manhattanie jedno z najbardziej rozpoznawalnych miejsc w Midtown, vis a vis Katedry św. Patryka.",
-      "caption_en": "Słynny budynek z rzeźbą Atlasa, w kompleksie Rockefeler Center na Manhattanie jedno z najbardziej rozpoznawalnych miejsc w Midtown, vis a vis Katedry św. Patryka."
+      "thumb": "images/Afryka/P1020093-thumb.webp",
+      "large": "images/Afryka/P1020093-large.webp",
+      "caption": "Dwie łodzie suszą się na brzegu jeziora Mutanda.",
+      "caption_en": "Dwie łodzie suszą się na brzegu jeziora Mutanda."
     },
     {
-      "thumb": "images/USA/P7290330-thumb.webp",
-      "large": "images/USA/P7290330-large.webp",
-      "caption": "New York z Mostu Brooklińskiego Empire State Building, Rockefeler Centre.",
-      "caption_en": "New York z Mostu Brooklińskiego Empire State Building, Rockefeler Centre."
+      "thumb": "images/Afryka/P1020098-thumb.webp",
+      "large": "images/Afryka/P1020098-large.webp",
+      "caption": "Szeroki widok na plantacje kawy w Burundi.",
+      "caption_en": "Szeroki widok na plantacje kawy w Burundi."
     },
     {
-      "thumb": "images/USA/P7290332-thumb.webp",
-      "large": "images/USA/P7290332-large.webp",
-      "caption": "N.Y.- z widokiem na Central Park i otaczające go bezpośrednio brązowe budynki luksusowej dzielnicy, widziane z tarasu Top of the Rock na Rockefeler Centre.",
-      "caption_en": "N.Y.- z widokiem na Central Park i otaczające go bezpośrednio brązowe budynki luksusowej dzielnicy, widziane z tarasu Top of the Rock na Rockefeler Centre."
+      "thumb": "images/Afryka/P1020140-thumb.webp",
+      "large": "images/Afryka/P1020140-large.webp",
+      "caption": "Miasteczko Kisoro w Ugandzie, informacja o Parkach Narodowych.",
+      "caption_en": "Miasteczko Kisoro w Ugandzie, informacja o Parkach Narodowych."
     },
     {
-      "thumb": "images/USA/P7310361-thumb.webp",
-      "large": "images/USA/P7310361-large.webp",
-      "caption": "Kodak Theatre (Dolby Theatre) w Los Angeles (Hollywood Boulevard). Miejsce przyznawania Oskarów.",
-      "caption_en": "Kodak Theatre (Dolby Theatre) w Los Angeles (Hollywood Boulevard). Miejsce przyznawania Oskarów."
-    },
-    {
-      "thumb": "images/USA/P7310363-thumb.webp",
-      "large": "images/USA/P7310363-large.webp",
-      "caption": "Los Angeles- w paśmie wzgórz Santa Monica-  Hollywood.",
-      "caption_en": "Los Angeles- w paśmie wzgórz Santa Monica-  Hollywood."
+      "thumb": "images/Afryka/P1020149-thumb.webp",
+      "large": "images/Afryka/P1020149-large.webp",
+      "caption": "Autobusem jedziemy do Kibungo.",
+      "caption_en": "Autobusem jedziemy do Kibungo."
     }
   ]
 };
