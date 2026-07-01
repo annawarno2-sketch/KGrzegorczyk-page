@@ -166,7 +166,7 @@ window.WORK_CONTENT = `
 
     <div class="pub">
         <div class="pub-title">
-            <a href="http://docs.mlinpl.org/conference/2006/..." target="_blank">
+            <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyldmhAAAAAJ&citation_for_view=tyldmhAAAAAJ:WF5omc3nYNoC" target="_blank">
                 Interpreter wybranych elementów składni języka QVT Core
             </a>
         </div>
