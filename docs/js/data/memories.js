@@ -64,7 +64,7 @@ Pamiętam jak szykowaliśmy w Centrum Nauki Kopernik edycję festiwalu Przemiany
 Karol wprowadził nas w podstawy, fajnie wyjaśnił nam najważniejsze zagadnienia, pomógł zrozumieć stan obecny i rzucił światło na perspektywy rozwoju tych technologii. To był sam początek prac zespołu merytorycznego, więc byliśmy zupełnie zieloni. Łagodnie sprowadził nas na ziemię tam, gdzie lektura chwytliwych nagłówków zaowocowała fantastycznymi wyobrażeniami. Nadał kierunek naszym dalszym pracom. Oczywiście zupełnie bezinteresownie i bardzo skromnie.`
     },
     {
-      title: "Karolina Warno",
+      title: "Karusia",
       images: [],
       text: `Nie mam żadnych zdjęć. Ale mam obraz w pamięci. Nie jesteśmy bliską rodziną, jestem kuzynką Taty Karola, cioteczną ciocią Karola, 14 lat od niego starszą. Pierwszy raz zobaczyłam Karola na ulicy Filtrowej jako niemowlę w wózku na spacerze. Potem nie widziałam Go przez wiele lat, albo tych okazji nie pamiętam. Kiedy Karol szedł na studia, pojawił się w naszym domu, aby poradzić się mojego męża Rafała i mnie w sprawie wyboru studiów na Politechnice. Co prawda nie posłuchał naszej rady i wybrał po swojemu, ale od tej pory śledziliśmy Jego losy. Kiedy skończył studia, okazało się, że trafił do firmy, w której pracował Rafał. Były wspólne tematy i nasze kontakty się ożywiły, a z czasem okazało się, że łączy nas dużo więcej zainteresowań niż tylko te przyziemne, związane z nauką i pracą. Chociaż nie były to częste spotkania, ale zawsze miałam poczucie, że dobrze znam Karola. Jak to wytłumaczyć?
 
