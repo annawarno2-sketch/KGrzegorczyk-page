@@ -1,5 +1,12 @@
 const PREVIEW_LIMIT = 8;
 
+function getAlbumDisplayTitle(containerId, album) {
+    if (containerId === "family-gallery" && album.toLowerCase() === "rodzinne") {
+        return window.currentLang === 'en' ? 'Family & Events' : 'Rodzina i Wydarzenia';
+    }
+    return album;
+}
+
 window.renderGallery = function (containerId, data) {
 
     const container = document.getElementById(containerId);
@@ -22,7 +29,7 @@ window.renderGallery = function (containerId, data) {
         section.className = "photo-subsection";
 
         const title = document.createElement("h3");
-        title.innerText = album;
+        title.innerText = getAlbumDisplayTitle(containerId, album);
 
         const strip = document.createElement("div");
         strip.className = "strip";
