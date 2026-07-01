@@ -11,6 +11,10 @@ window.addEventListener("DOMContentLoaded", () => {
         setLang("pl");
     }
 
+    // mark initial active nav link
+    const menuHome = document.getElementById("menuHome");
+    if (menuHome) menuHome.classList.add("nav-active");
+
     // render galleries (ONE SYSTEM)
     if (window.renderGallery) {
 

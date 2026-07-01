@@ -62,6 +62,11 @@
             border-bottom: 1px solid #eee;
         }
 
+        nav a.nav-active {
+            color: #fff;
+            border-bottom: 1px solid #fff;
+        }
+
         .section {
             display: none;
             width: min(var(--content-max-width), calc(100% - (2 * var(--content-gutter))));

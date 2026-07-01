@@ -2,6 +2,10 @@ let workSectionLoaded = false;
 
 function showSection(id) {
     document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+    document.querySelectorAll('nav a').forEach(a => a.classList.remove('nav-active'));
+    const navMap = { home: 'menuHome', family: 'menuFamily', work: 'menuWork', photography: 'menuPhotography', wspomnienia: 'menuWspomnienia' };
+    const activeLink = document.getElementById(navMap[id]);
+    if (activeLink) activeLink.classList.add('nav-active');
     const section = document.getElementById(id);
     if (section) {
         section.classList.add('active');
