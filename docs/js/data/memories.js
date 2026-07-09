@@ -138,6 +138,30 @@ Nauka pozostała w sercu Karola, pomimo jego wielkiego zaangażowania w rozwijan
 
 Chociaż ręce czasu zabrały naszego drogiego kolegę z tego świata, na zawsze pozostanie częścią naszego życia. Jego pamięć będzie nadal nas inspirować w naszej codzienności, pamiętając o niezwykłej podróży, którą przebyliśmy. Spoczywaj w pokoju drogi przyjacielu i współpracowniku. Zawsze będziesz mieć szczególne miejsce w naszych sercach.`
     },
+
+    {
+      title: "Professor Stan Matwin - Dalhousie University",
+      images: [],
+      text: `Chciałbym krótko podzielić się pamięcią o panu dr. Karolu Grzegorczyku. Poznałem
+go w trakcie jego doktoratu w AGH. Tematem pracy było interesujące,
+fundamentalne zagadnienie opisu danych w języku naturalnym dla metod uczenia
+się używających tzw. głębokich sieci neuronowych. Była to jak na ten czas (2017-18)
+praca prekursorska. Zawierała oryginalne, autorskie podejście do ważnego
+problemu. Pomysł został zaimplementowany, a także sprawdzony
+eksperymentalnie. Wynikiem była bardzo dobra praca doktorska, którą z
+przyjemnością przeczytałem i zrecenzowałem, oczywiście pozytywnie.
+W trakcie przewodu doktorskiego pan Karol odbył krótki staż w moim laboratorium
+na uniwersytecie w Halifaksie w Kanadzie. Zachowałem z jego pobytu jak najmilsze
+wspomnienia. Pamiętam też nasze spotkanie w Warszawie rok po obronie. Z
+przyjemnością zauważyliśmy zbieżność naszych poglądów na otaczającą nas
+rzeczywistość.
+Karol miał bardzo szerokie zainteresowania humanistyczne i ciekawie było z nim
+rozmawiać na każdy temat. Szkoda wielka że nie dożył w dnia dzisiejszego, gdy jego
+wybrana nauka jest na ustach wszystkich. Pozostał w mojej pamięci jako
+inteligentny, miły naukowiec z wiatrem w żagle, który niewątpliwie - gdyby los na
+to pozwolił – włożyłby istotny wkład do dziedziny sztucznej inteligencji.`
+    },
+
     {
       title: "Jacek (Craft)",
       images: [{ src: "images/Memmories/Jacek.webp", alt: "Wspomnienie – Jacek (Craft)" }],
