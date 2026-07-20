@@ -140,7 +140,7 @@ Chociaż ręce czasu zabrały naszego drogiego kolegę z tego świata, na zawsze
     },
 
     {
-      title: "Professor Stan Matwin - Dalhousie University",
+      title: "Stan Matwin<br>Profesor Emerytowany, Dalhousie University, Kanada<br>Profesor, Instytut Podstaw Informatyki PAN, Warszawa",
       images: [],
       text: `Chciałbym krótko podzielić się pamięcią o panu dr. Karolu Grzegorczyku. Poznałem
 go w trakcie jego doktoratu w AGH. Tematem pracy było interesujące,
