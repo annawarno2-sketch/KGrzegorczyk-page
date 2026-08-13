@@ -101,7 +101,7 @@ Dziękuję za nasze ostatnie spotkanie w Koperniku, ale nas wtedy ulewa dopadła
       text: `Pamiętam, że Karola bliżej poznaliśmy w czasie kiedy kończył jeszcze liceum i przyszedł do nas - starszych kuzynów, żeby poradzić się w sprawie wyboru studiów technicznych na Politechnice, nad którymi się wtedy zastanawiał. Od tamtej pory spotykaliśmy się czasami w różnych miejscach - na kolacyjkach w Warszawie, ale spotkaliśmy się też kiedyś w Krakowie, kiedy Karol tam mieszkał i robił doktorat. Pamiętam jak rozmawialiśmy wtedy przez wiele godzin włócząc się, oprowadzał mnie też po zakamarkach Kazimierza, jak niesamowicie smakowały nam zapiekanki przy placu Nowym, albo jak kiedyś gdy zatrzymałem się na krótko u Karola w Dublinie i zaprowadził mnie do swojej ulubionej herbaciarni blisko Trinity College w czasie, kiedy pracował tam po doktoracie i wymienialiśmy się różnymi 'smakami' z odkrywania Irlandii. Karol był dla mnie bratnią duszą, umiał cieszyć się małymi rzeczami, był skromny i cichy. Łączyło nas wiele pasji w poznawaniu świata - przez podróże, ale także pasje techniczne czy tematy zawodowe. Myślę że teraz widzi nas gdzieś z góry i cieszy się z odkrywania po tej drugiej stronie...`
     },
     {
-      title: "Marysia",
+      title: "Marysia S",
       images: [],
       text: `Gdy byłam mała byłeś tym spośród starszych kuzynów, do którego chyba najłatwiej było się odezwać - jakaś taka podskórna bliskość 🙂
 
@@ -187,6 +187,12 @@ Karol w trakcie jednego z pierwszych lotów na paralotni.`
       title: "Marcin",
       category: "image-full",
       images: [{ src: "images/Memmories/Marcin.webp", alt: "Wspomnienie – Marcin" }],
+      text: ``
+    },
+    {
+      title: "Marysia P",
+      category: "image-full",
+      images: [{ src: "images/Memmories/Marysia.webp", alt: "Wspomnienie – Marysia P" }],
       text: ``
     },
   ]
