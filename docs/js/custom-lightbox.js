@@ -13,12 +13,14 @@
     <div class="clb-backdrop" data-clb-role="backdrop"></div>
     <div class="clb-shell" role="dialog" aria-modal="true" data-clb-role="shell">
       <button class="clb-close" data-clb-action="close" aria-label="Close">×</button>
-      <button class="clb-prev" data-clb-action="prev" aria-label="Previous">‹</button>
       <div class="clb-stage" data-clb-role="stage">
         <img class="clb-img" src="" alt="" data-clb-role="img">
         <div class="clb-caption" data-clb-role="caption"></div>
       </div>
-      <button class="clb-next" data-clb-action="next" aria-label="Next">›</button>
+      <div class="clb-nav" data-clb-role="nav">
+        <button class="clb-prev" data-clb-action="prev" aria-label="Previous">‹</button>
+        <button class="clb-next" data-clb-action="next" aria-label="Next">›</button>
+      </div>
     </div>
   `;
   document.body.appendChild(tmpl);
@@ -87,21 +89,19 @@
     if (isVideo) {
       imgEl.style.display = 'none';
       videoEl.style.display = '';
-      // set poster from thumbnail if available
       try {
         const imgThumb = it.thumbEl && it.thumbEl.querySelector && it.thumbEl.querySelector('img');
         if (imgThumb && imgThumb.src) videoEl.setAttribute('poster', imgThumb.src);
       } catch (e) {}
-      // clear any previous sources
       while (videoEl.firstChild) videoEl.removeChild(videoEl.firstChild);
       const src = document.createElement('source');
       src.src = it.src;
-      // choose a reasonable mime type for .mov
       src.type = /\.mov$/i.test(it.src) ? 'video/quicktime' : 'video/mp4';
       videoEl.appendChild(src);
       videoEl.setAttribute('aria-label', it.caption || 'Video');
       videoEl.load();
-      // do not auto-play; show controls and let user start playback (autoplay can be blocked)
+      videoEl.style.width = 'auto';
+      videoEl.style.height = 'auto';
     } else {
       videoEl.style.display = 'none';
       videoEl.pause();
@@ -109,11 +109,12 @@
       videoEl.removeAttribute('src');
       videoEl.removeAttribute('poster');
       imgEl.style.display = '';
+      imgEl.style.width = 'auto';
+      imgEl.style.height = 'auto';
       imgEl.src = it.src;
       imgEl.alt = it.caption || '';
     }
     capEl.textContent = it.caption || '';
-    // update nav buttons
     prevBtn.style.display = current>0 ? '' : 'none';
     nextBtn.style.display = current<items.length-1 ? '' : 'none';
   }
