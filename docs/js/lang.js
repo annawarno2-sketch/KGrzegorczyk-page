@@ -19,7 +19,7 @@ window.setLang = function (lang) {
             noPhotos: "No photos available for this category.",
             loadingWork: "Loading work content…",
             workLoadError: "Unable to load work content. Please refresh the page.",
-            docTitle: "Karol Grzegorczyk Photography",
+            docTitle: "Karol Grzegorczyk",
             memoriesTitle: "Memories",
             contactLead: "If you want to add anything or ask about Karol, reach out:"
         },
@@ -41,7 +41,7 @@ window.setLang = function (lang) {
             noPhotos: "Brak zdjęć w tej kategorii.",
             loadingWork: "Ładowanie treści pracy…",
             workLoadError: "Nie można załadować treści pracy. Odśwież stronę.",
-            docTitle: "Karol Grzegorczyk Fotografia",
+            docTitle: "Karol Grzegorczyk",
             memoriesTitle: "Wspomnienia",
             contactLead: "Jeśli chcesz coś dodać lub zapytać o Karola, napisz:"
         }
