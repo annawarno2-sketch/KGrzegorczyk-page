@@ -102,7 +102,7 @@ Dziękuję za nasze ostatnie spotkanie w Koperniku, ale nas wtedy ulewa dopadła
     },
     {
       title: "Marysia",
-      images: [{ src: "images/Memmories/Marysia.webp", alt: "Wspomnienie – Marysia" }],
+      images: [],
       text: `Gdy byłam mała byłeś tym spośród starszych kuzynów, do którego chyba najłatwiej było się odezwać - jakaś taka podskórna bliskość 🙂
 
 Bardzo cieszyło mnie to, że lubiłeś wspólnie śpiewać podczas różnorakich rodzinnych Świąt. Z ostatnich lat chyba najlepiej zapamiętam wspólne wędrowanie na Camino w 2018 r.
