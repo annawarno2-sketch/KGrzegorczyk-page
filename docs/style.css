@@ -7,6 +7,10 @@
             --content-gutter: clamp(20px, 4vw, 72px);
         }
 
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+
         body {
             margin: 0;
             padding: 0;
@@ -15,6 +19,7 @@
             font-family: var(--font-main);
             text-align: center;
             min-height: 100vh;
+            overflow-x: hidden;
         }
 
         button,
@@ -173,13 +178,20 @@
 
         .global-contact {
             width: 100%;
+            max-width: 100%;
             margin: 56px 0 0;
             padding: 22px 20px 26px;
+            box-sizing: border-box;
             font-size: 14px;
             line-height: 1.6;
             color: var(--text-muted);
             opacity: 0.86;
             text-align: center;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 0.35em 0.4em;
             border-top: 1px solid rgba(255, 255, 255, 0.12);
             background: linear-gradient(180deg, rgba(255, 255, 255, 0.035), rgba(255, 255, 255, 0));
         }
@@ -188,6 +200,10 @@
             color: var(--text-primary);
             text-decoration: underline;
             text-underline-offset: 3px;
+            overflow-wrap: anywhere;
+            word-break: break-word;
+            display: inline-block;
+            max-width: 100%;
         }
 
         .global-contact a:hover {
@@ -596,6 +612,7 @@
             .global-contact {
                 font-size: 15px;
                 line-height: 1.6;
+                padding: 18px 16px 22px;
             }
 
             #langSwitch {
