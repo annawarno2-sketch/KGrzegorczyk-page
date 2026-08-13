@@ -71,6 +71,46 @@ Gallery content is split into data files such as:
 
 Each file exports a data structure consumed by the page. If you add a new gallery item, follow the same structure as nearby entries.
 
+### Adding a new album to Family or Travels
+
+1. Put the images in the matching folder under `docs/images/`.
+   - Example: `docs/images/USA/`, `docs/images/Indie/`, `docs/images/rodzinne/`
+2. Open the relevant file:
+   - `docs/js/data/family.js` for family/event galleries
+   - `docs/js/data/travels.js` for travel galleries
+3. Add a new object in the same array style as the existing entries.
+
+Example structure:
+
+```js
+{
+  title: "USA",
+  images: [
+    "images/USA/01.webp",
+    "images/USA/02.webp",
+    "images/USA/03.webp"
+  ]
+}
+```
+
+Or with captions:
+
+```js
+{
+  title: "Indie",
+  images: [
+    { src: "images/Indie/01.webp", alt: "Indie 1" },
+    { src: "images/Indie/02.webp", alt: "Indie 2" }
+  ]
+}
+```
+
+Important:
+- The image paths must match the actual files on disk.
+- The `title` is usually the album name shown on the page.
+- The order in the array controls the order on the page.
+- If a new album needs a custom visual treatment, check the gallery-rendering logic before adding it.
+
 ## 5) Local preview
 
 Open `docs/index.html` in a browser, or run a local static server from the project root if needed.
