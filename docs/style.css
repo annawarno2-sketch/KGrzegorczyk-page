@@ -932,7 +932,7 @@
 .strip-item {
     display: flex;
     flex-direction: column;
-    width: min(100%, 28rem);
+    width: min(100%, 20rem);
     gap: 10px;
 }
 
@@ -944,6 +944,7 @@
 
 .strip img {
     width: 100%;
+    max-width: 320px;
     height: auto;
     display: block;
     object-fit: contain;
